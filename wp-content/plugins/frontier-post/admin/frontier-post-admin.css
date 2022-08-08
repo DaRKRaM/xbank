@@ -1,0 +1,50 @@
+/* 
+	------------------
+	Admin styling for Frontier Post
+   	------------------   
+*/
+
+
+
+	
+#frontier-post-admin-menu table {
+    background-color: #FCFCFC;
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 2px;
+    margin: 1px;
+}
+
+table.frontier-post-admin-menu {
+	width: 90%;
+ 
+}
+
+#frontier-post-admin-menu th {
+    border: 1px solid black;
+    padding: 2px;
+    margin: 1px;
+}#frontier-post-admin-menu td {
+    border: 1px solid black;
+    padding: 2px;
+    margin: 1px;
+}
+
+
+
+
+	
+/*
+----------------------------------------
+Miscelaneous
+----------------------------------------
+*/
+
+#frontier-post-admin-alert {
+	/*color: red !important;*/
+	border: 1px solid red !important;
+	font-size: 1.2em !important;
+	font-weight: bold !important;
+	text-align: center !important;
+}
+

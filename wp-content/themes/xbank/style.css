@@ -1,0 +1,21 @@
+/*
+
+Theme Name: xbank
+
+License: GNU General Public License v2 or later
+
+License URI: LICENSE
+
+Text Domain: hello-elementor
+Template: hello-elementor
+
+/* Theme customization starts here
+-------------------------------------------------------------- */
+
+.lineamon{ display: flex; justify-content: space-between; padding:10px; border-bottom: 1px solid #999;}
+
+.devo{ font-size: 0.8rem;font-weight: 300;padding-left:10px; color: #EC0E11;}
+.row50{ margin:0 auto; max-width: 440px; margin-bottom:30px;}
+.titi{ font-size: 0.9rem; font-weight: 500; padding-bottom: 30px;}
+.adding{ padding:15px; background-color:#fafafa;}
+.nofondos{ text-align:center; padding-top:30px; color: #F00;}
