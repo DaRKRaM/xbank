@@ -4,5 +4,7 @@
  		  
 		 wp_enqueue_style( 'child-style', get_stylesheet_uri() );
 	 }
+	 
+require get_theme_file_path('/inc/json.php');
 
 ?>
