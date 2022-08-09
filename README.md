@@ -8,10 +8,12 @@ Using the custom theme "xbank" a child of hello-elementor.
 
 Plugins:
 PODS: Creation of "Dinero" content type.
+Creation of extra field for User. (Money -> balance of user)
 Ultimate Member: memberships login and account.
 
 Plugin Xbank:
 Custom plugin created to show the deposits history, and Save the Deposits (deposits are a custom post type called "Dinero")
+You can choose Add or Withdraw.
 
 Pages:
 Widthdraws are managing on page: 
