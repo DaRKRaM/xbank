@@ -45,7 +45,10 @@ function xbank_form() {
 	if ($type == "Yes") { $ttype = "-"; } else { $ttype = ""; }
 	
 	echo '<div class="lineamon">'; 
-	echo '<span class="canti">' . $ttype . $usrcant .'</span><span class="concept">'. get_the_title() . '</span> <span class="date">'. get_the_date('Y-m-d') . '</span> <span class="devo"><a href="post-process/?pid=' . $post->ID .'" id="' . $post->ID .'">[revoke]</a></span>';		
+	echo '<span class="canti">' . $ttype . $usrcant .'</span><span class="concept">'. get_the_title() . '</span> <span class="date">'. get_the_date('Y-m-d') . '</span>';
+	if ($type != "Yes") {
+		echo '<span class="devo"><a href="post-process/?pid=' . $post->ID .'" id="' . $post->ID .'">[revoke]</a></span>';
+	}
     echo '</div>';
 	endwhile;	
 	 ?>
