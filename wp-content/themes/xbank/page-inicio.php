@@ -8,8 +8,6 @@
  * @package HelloElementor
  Template: inicio
  */
-
-
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
@@ -29,6 +27,5 @@ get_header(); ?>
 		</div>
 		<?php wp_link_pages(); ?>
 	</div>
-    <?php
-	
-	get_footer(); ?>
+    
+<?php get_footer(); ?>

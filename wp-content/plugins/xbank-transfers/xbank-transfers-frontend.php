@@ -1,46 +1,33 @@
 <?php
 /**
  * Plugin Name:Xbank
- * Description: Plugin de ejemplo para el artículo "Grabar Custom Post Type desde el frontend de WordPress". Utiliza el shortcode [xbank_form]
- * Author: KungFuPress
- * Author URI: https://kungfupress.com
- * Version: 0.1
- *
- * @package kfp_cpt
+ * Description: Xbank sistema de muestra movimientos bancarios [xbank_form]
  */
 
-// Evita que se llame directamente a este fichero sin pasar por WordPress.
 defined( 'ABSPATH' ) || die();
 
-// Crea el shortcode para mostrar el formulario de propuesta de ideas.
+// shortcode for the Main Form (account balance + add funds).
 add_shortcode( 'xbank_form', 'xbank_form' );
-// Agrega los action hooks para grabar el formulario:
-// El primero para usuarios logeados y el otro para el resto.
-// Lo que viene tras admin_post_ y admin_post_nopriv_ tiene que coincidir con -
-// el value del campo input con name "action" del formulario.
+// hooks for saving the form
 add_action( 'admin_post_xbank_save', 'xbank_save' );
 add_action( 'admin_post_nopriv_xbank_save', 'xbank_save' );
 
 
-/**
- * Muestra el formulario para proponer ideas desde el frontend
- *
- * @return string
- */
+// the Main Balance
 function xbank_form() {
 	if ( isset( $_GET['kfp_gcf_texto_aviso'] ) ) {
-		echo "<h4>" . $_GET['kfp_gcf_texto_aviso'] . "</h4>";
+		echo '<div class="row50"><h4>' . $_GET['kfp_gcf_texto_aviso'] . '</h4></div>';
 	}
 	ob_start();
 	if ( is_user_logged_in() ) {
+		// get the User and his Money
 	$author_id = get_current_user_id();
-
 	$previous_money = get_the_author_meta('money', $author_id);
 	
-   $args = array(
-            'post_type' => 'dinero',
-			'post_status' => 'publish',
-			'author__in'=> $author_id,
+    $args = array(
+    'post_type' => 'dinero',
+	'post_status' => 'publish',
+	'author__in'=> $author_id,
     'orderby' => 'date',
     'posts_per_page' => '-1',
     'order' => 'DESC');  
@@ -49,7 +36,7 @@ function xbank_form() {
 	
   if( $loop->have_posts() ):
 	echo '<div>';
-	echo '<div class="row50 titi"><p><strong>Account Holder:</strong> '. get_the_author_meta('display_name', $author_id) .'<br /><strong>Balance:</strong> '. get_the_author_meta('money', $author_id) .'</p></div>';
+	echo '<div class="row50 titi"><p><strong>Account Holder:</strong> '. get_the_author_meta('display_name', $author_id) .'<br /><strong>Balance:</strong> '. get_the_author_meta('money', $author_id) .'€</p></div>';
 	echo '<div class="row50">';
   	while( $loop->have_posts() ): $loop->the_post(); global $post;
 	// Campo Cantidad
@@ -66,6 +53,7 @@ else :
 	 echo '<p class="nofondos">You have not Funds on your account.</p>';
 }
 endif;
+// FORM FOR DEPOSITS
    ?><div class="row50 adding">
    <h4>Add Funds to your account</h4>
 	<form name="xbank"action="<?php echo esc_url(admin_url('admin-post.php')); ?>" 
@@ -76,9 +64,9 @@ endif;
 			value="<?php echo home_url( add_query_arg(array())); ?>">
             <input type="hidden" name="saldo" id="saldo" value="<?php echo $previous_money; ?>">
 		<p>
-			<label for="xbank-title">Concept</label>
+			<label for="xbank-title">Description</label>
 			<input type="text" name="xbank-title" id="xbank-title" 
-				placeholder="Pon un Concepto">
+				placeholder="Write something...">
 		</p>
 		<p>
 			<label for="xbank-content">Amount</label>
@@ -91,6 +79,7 @@ endif;
 	</form></div>
 	<?php
 	} else {
+		// IF NOT USER GO TO LOGIN
     echo '<div class="um um-login um-19 uimob500"><h2>Hello visitor!</h2></div>';
 	
 	echo do_shortcode('[ultimatemember form_id="19"]');
@@ -105,6 +94,7 @@ endif;
  */
 function xbank_save()
 {
+	// Form validation
 	if (filter_has_var(INPUT_POST, 'kfp-gcf-url-origen')) {
 		$url_origen = filter_input(INPUT_POST, 'kfp-gfc-url-origen', FILTER_SANITIZE_URL);
 	}
@@ -112,7 +102,7 @@ function xbank_save()
 	if(empty($_POST['xbank-title']) || empty($_POST['xbank-content'])
 		|| !wp_verify_nonce($_POST['xbank-form-nonce'], 'xbank-form')) {
 		$aviso = "error";
-		$texto_aviso = "Por favor, rellena los contenidos requeridos del formulario";
+		$texto_aviso = "Por favor, rellena los contenidos requeridos del formulario.";
 		wp_redirect(
 			esc_url_raw(
 				add_query_arg(
@@ -120,13 +110,14 @@ function xbank_save()
 						'kfp_gcf_aviso' => $aviso,
 						'kfp_gcf_texto_aviso' => $texto_aviso,
 					),
-					$url_origen
+					'https://www.aijer.org'
 				)
 			)
 		);
 		exit();
 	}
-
+// EOF Form validation
+// WP QUERY FOR SAVE DINERO CONTENT TYPE
 	$args = array(
 		'post_title'     => filter_input(INPUT_POST, 'xbank-title', FILTER_SANITIZE_STRING),
 		'post_content'   => filter_input(INPUT_POST, 'xbank-content', FILTER_SANITIZE_STRING),
@@ -136,35 +127,31 @@ function xbank_save()
 		'ping_status'    => 'closed'
 	);
 
-	// Esta variable $post_id contiene el ID del nuevo registro 
-	// Nos vendría de perlas para grabar los metadatos
-	$post_id = wp_insert_post($args);
-	//add_post_meta( $post_id, 'canti', filter_input(INPUT_POST, 'kfp-gcf-content', FILTER_SANITIZE_STRING), true );
+	$post_id = wp_insert_post($args);  // save 
 	add_post_meta( $post_id, 'cantidad', filter_input(INPUT_POST, 'xbank-content', FILTER_SANITIZE_STRING), true );
-	// update User money
-	// try to find some `favorite_coffee` user meta 
+	// update User's money
+	// balances calculations
+	
 $previous_money = $_POST['saldo'];
 $new_money = $_POST['xbank-content'];
 echo $previous_money;
-$total = $previous_money + $new_money;
+$total = $previous_money + $new_money; // add funds to user
 echo $total;
 $author_id = get_current_user_id();
 	add_user_meta( $author_id, 'money', $total, true );
-
 	$aviso = "success";
-	$texto_aviso = "Has registrado tu idea correctamente. ¡Gracias!";
+	$texto_aviso = "Deposit successful!";
 	echo "ok";
-	wp_redirect('https://www.aijer.org/');
+	wp_redirect(
+			esc_url_raw(
+				add_query_arg(
+					array(
+						'kfp_gcf_aviso' => $aviso,
+						'kfp_gcf_texto_aviso' => $texto_aviso,
+					),
+					'https://www.aijer.org'
+				)
+			)
+		);
 	exit();
-}
-
-/**
- * Form process to Widthdraw funds
- *
- * @return void
- */
-function xbank_delete()
-{
-	echo "all right";
-	wp_delete_post(91, true); 
 }

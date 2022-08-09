@@ -16,6 +16,11 @@ Template: hello-elementor
 
 .devo{ font-size: 0.8rem;font-weight: 300;padding-left:10px; color: #EC0E11;}
 .row50{ margin:0 auto; max-width: 440px; margin-bottom:30px;}
+.center{text-align:center;}
 .titi{ font-size: 0.9rem; font-weight: 500; padding-bottom: 30px;}
 .adding{ padding:15px; background-color:#fafafa;}
 .nofondos{ text-align:center; padding-top:30px; color: #F00;}
+.linkbut:link,.linkbut:active,.linkbut:visited{ padding:8px 14px 8px 14px; border-radius: 30px; background-color:#f82121; text-decoration:none; color: #fff; font-size:16px; font-weight:700;}
+.linkbut:hover{ padding:8px 14px 8px 14px; border-radius: 30px; background-color:#000; }
+.linkgray:link,.linkgray:active,.linkgray:visited{ padding:8px 14px 8px 14px; border-radius: 30px; background-color:#ccc; text-decoration:none; color: #000; font-size:16px; font-weight:700;}
+.linkgray:hover{ padding:8px 14px 8px 14px; border-radius: 30px; background-color:#ddd; }

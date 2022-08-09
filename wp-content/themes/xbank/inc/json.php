@@ -20,8 +20,7 @@ function dineroresult(){
 			'title' => get_the_title(),
 			'amount' => pods_field_display('cantidad'),
 			'date' => get_the_date()
-			));
-			
+			));		
 			
 		}
 	
