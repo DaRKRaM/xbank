@@ -40,9 +40,12 @@ function xbank_form() {
 	echo '<div class="row50">';
   	while( $loop->have_posts() ): $loop->the_post(); global $post;
 	// Campo Cantidad
-	$usrcant = pods_field_display( 'cantidad' );	
+	$usrcant = pods_field_display( 'cantidad' );
+	$type = pods_field_display( 'withdraw' );
+	if ($type == "Yes") { $ttype = "-"; } else { $ttype = ""; }
+	
 	echo '<div class="lineamon">'; 
-	echo '<span class="canti">' . $usrcant .'</span><span class="concept">'. get_the_title() . '</span> <span class="date">'. get_the_date('Y-m-d') . '</span> <span class="devo"><a href="post-process/?pid=' . $post->ID .'" id="' . $post->ID .'">[withdraw]</a></span>';		
+	echo '<span class="canti">' . $ttype . $usrcant .'</span><span class="concept">'. get_the_title() . '</span> <span class="date">'. get_the_date('Y-m-d') . '</span> <span class="devo"><a href="post-process/?pid=' . $post->ID .'" id="' . $post->ID .'">[revoke]</a></span>';		
     echo '</div>';
 	endwhile;	
 	 ?>
@@ -55,7 +58,7 @@ else :
 endif;
 // FORM FOR DEPOSITS
    ?><div class="row50 adding">
-   <h4>Add Funds to your account</h4>
+   <h4>Manage your account</h4>
 	<form name="xbank"action="<?php echo esc_url(admin_url('admin-post.php')); ?>" 
 		method="post" id="xbank-form">
 		<?php wp_nonce_field('xbank-form', 'xbank-form-nonce'); ?>
@@ -63,6 +66,11 @@ endif;
 		<input type="hidden" name="kfp-gcf-url-origen" 
 			value="<?php echo home_url( add_query_arg(array())); ?>">
             <input type="hidden" name="saldo" id="saldo" value="<?php echo $previous_money; ?>">
+             <p>
+			<label for="xbank-type">Choose: </label></p>
+			<p><input type="radio" name="withdraw" value="No" checked="checked" />Add Funds
+			<input type='radio' name="withdraw" value="Yes" /> Withdraw
+		</p>
 		<p>
 			<label for="xbank-title">Description</label>
 			<input type="text" name="xbank-title" id="xbank-title" 
@@ -71,10 +79,11 @@ endif;
 		<p>
 			<label for="xbank-content">Amount</label>
 			<input type="number" min="0.00" max="10000.00" step="0.01" name="xbank-content" id="xbank-content" 
-				placeholder="Amount in Euros"></textarea>
+				placeholder="Amount in Euros">
 		</p>
+       
 		<p>
-			<input type="submit" name="kfp-gcf-submit" value="Add Funds">
+			<input type="submit" name="kfp-gcf-submit" value="Submit">
 		</p>
 	</form></div>
 	<?php
@@ -131,16 +140,17 @@ function xbank_save()
 	add_post_meta( $post_id, 'cantidad', filter_input(INPUT_POST, 'xbank-content', FILTER_SANITIZE_STRING), true );
 	// update User's money
 	// balances calculations
-	
+$actiotype = $_POST['withdraw'];
 $previous_money = $_POST['saldo'];
 $new_money = $_POST['xbank-content'];
-echo $previous_money;
-$total = $previous_money + $new_money; // add funds to user
-echo $total;
+
+if ($actiotype == "No") { $total = $previous_money + $new_money; } else { $total = $previous_money - $new_money; 
+add_post_meta( $post_id, 'withdraw', $actiotype, true ); }
+
 $author_id = get_current_user_id();
 	add_user_meta( $author_id, 'money', $total, true );
 	$aviso = "success";
-	$texto_aviso = "Deposit successful!";
+	$texto_aviso = "Operation successful!";
 	echo "ok";
 	wp_redirect(
 			esc_url_raw(
