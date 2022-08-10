@@ -7,21 +7,24 @@ Theme:
 Using the custom theme "xbank" a child of hello-elementor.
 
 Plugins:
-PODS: Creation of "Dinero" content type.
-Creation of extra field for User. (Money -> balance of user)
+PODS: Creation of "Dinero" Content Type.
+Creation of extra field for Users. (Field "money" -> balance of user)
+
 Ultimate Member: memberships login and account.
 
 Plugin Xbank:
-Custom plugin created to show the deposits history, and Save the Deposits (deposits are a custom post type called "Dinero")
-You can choose Add or Withdraw.
+Custom plugin created to show the account statement, and to manage Deposits and withdraws.
 
 Pages:
-Widthdraws are managing on page: 
+HOME - Contains the Account Statement and the form for adding or withdraw funds.
+Add funds or withdraws creates a new posts of dinero custom content type)
+
+REVOKE (there is and option to delete posts (revoke a transfer) of the dinero custom content type by user) on page: 
 Post-Process (theme xbank/page-post-process.php)
 
 Custom Json:
 file (theme xbank/inc/json.php)
-Creation of choosed fields to show on a JSON file the REST API.
+Creation of choosed fields to show on a JSON file the REST API. (more fields can be added)
 https://www.aijer.org/wp-json/bank/v1/dinero
 
 

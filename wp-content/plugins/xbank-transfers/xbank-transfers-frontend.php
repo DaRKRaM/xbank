@@ -29,7 +29,7 @@ function xbank_form() {
 	'post_status' => 'publish',
 	'author__in'=> $author_id,
     'orderby' => 'date',
-    'posts_per_page' => '-1',
+    'posts_per_page' => '10',
     'order' => 'DESC');  
 
   $loop = new WP_Query( $args );
