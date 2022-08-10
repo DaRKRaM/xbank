@@ -38,6 +38,7 @@ function xbank_form() {
 	echo '<div>';
 	echo '<div class="row50 titi"><p><strong>Account Holder:</strong> '. get_the_author_meta('display_name', $author_id) .'<br /><strong>Balance:</strong> '. get_the_author_meta('money', $author_id) .'€</p></div>';
 	echo '<div class="row50">';
+	echo '<div class="row50 state"><h5>Statement</h5></div>';
   	while( $loop->have_posts() ): $loop->the_post(); global $post;
 	// Campo Cantidad
 	$usrcant = pods_field_display( 'cantidad' );
