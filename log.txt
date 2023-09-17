@@ -4,3 +4,4 @@
 0051. ✨ feat: enable dark mode toggle
 0328. 🐛 fix: resolve issue with date parsing
 0753. 🔧 refactor: remove redundant code blocks
+0834. ✅ test: increase coverage on auth module
