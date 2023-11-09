@@ -18,3 +18,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0234. ♻️ chore: rename env.example
 0822. 🔧 refactor: remove redundant code blocks
+0922. 📚 docs: write FAQ section
