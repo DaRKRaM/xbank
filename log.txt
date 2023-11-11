@@ -19,3 +19,4 @@
 0234. ♻️ chore: rename env.example
 0822. 🔧 refactor: remove redundant code blocks
 0922. 📚 docs: write FAQ section
+0046. 🎨 style: rename variables for clarity
