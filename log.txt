@@ -24,3 +24,4 @@
 0563. 📚 docs: clarify environment setup
 0953. 🎨 style: remove trailing whitespace
 0127. 🐛 fix: fix null pointer exception on login
+0824. 🚀 perf: lazy-load components
