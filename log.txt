@@ -30,3 +30,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0227. ✅ test: test user registration edge cases
 0301. 🎨 style: apply consistent indentation
+0949. 📚 docs: write FAQ section
