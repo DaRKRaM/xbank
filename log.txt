@@ -32,3 +32,4 @@
 0301. 🎨 style: apply consistent indentation
 0949. 📚 docs: write FAQ section
 0719. 🎨 style: apply consistent indentation
+0012. 🚀 perf: cache repeated calculations
