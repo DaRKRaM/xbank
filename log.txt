@@ -34,3 +34,4 @@
 0719. 🎨 style: apply consistent indentation
 0012. 🚀 perf: cache repeated calculations
 0970. ♻️ chore: update .gitignore
+0524. ♻️ chore: rename env.example
