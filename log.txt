@@ -41,3 +41,4 @@
 0997. ✅ test: increase coverage on auth module
 0642. 🚀 perf: optimize database query for quiz results
 0218. 🔧 refactor: clean up auth middleware
+0168. ✅ test: add integration test for /submit endpoint
