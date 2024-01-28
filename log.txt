@@ -46,3 +46,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0308. 🚀 perf: reduce image load time
 0679. ♻️ chore: bump dependencies
+0361. ✨ feat: support email verification
