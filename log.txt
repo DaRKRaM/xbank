@@ -47,3 +47,4 @@
 0308. 🚀 perf: reduce image load time
 0679. ♻️ chore: bump dependencies
 0361. ✨ feat: support email verification
+0039. ✅ test: add integration test for /submit endpoint
