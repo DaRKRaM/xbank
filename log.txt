@@ -51,3 +51,4 @@
 0820. 📚 docs: add API usage examples
 0427. ✅ test: mock database connection in test suite
 0244. ✨ feat: add export to CSV option
+0888. 🚀 perf: lazy-load components
