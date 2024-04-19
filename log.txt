@@ -69,3 +69,4 @@
 0242. ♻️ chore: clean up unused files
 0152. ✨ feat: add user authentication
 0684. 🚀 perf: reduce image load time
+0749. ✨ feat: support email verification
