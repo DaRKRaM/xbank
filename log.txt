@@ -70,3 +70,4 @@
 0152. ✨ feat: add user authentication
 0684. 🚀 perf: reduce image load time
 0749. ✨ feat: support email verification
+0976. ✨ feat: implement quiz timer feature
