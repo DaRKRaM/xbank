@@ -72,3 +72,4 @@
 0749. ✨ feat: support email verification
 0976. ✨ feat: implement quiz timer feature
 0885. ♻️ chore: update .gitignore
+0043. ✅ test: add integration test for /submit endpoint
