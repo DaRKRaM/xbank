@@ -76,3 +76,4 @@
 0635. 🎨 style: apply consistent indentation
 0593. 🐛 fix: correct typo in registration form
 0760. 🐛 fix: resolve issue with date parsing
+0408. ♻️ chore: add GitHub actions badge
