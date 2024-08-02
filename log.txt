@@ -98,3 +98,4 @@
 0946. ✅ test: add unit test for quiz service
 0512. 🚀 perf: reduce image load time
 0009. ✨ feat: enable dark mode toggle
+0865. ♻️ chore: add GitHub actions badge
