@@ -101,3 +101,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0756. ✨ feat: support email verification
 0292. 📚 docs: clarify environment setup
+0278. 🔧 refactor: clean up auth middleware
