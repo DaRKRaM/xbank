@@ -105,3 +105,4 @@
 0921. 🐛 fix: correct typo in registration form
 0285. 🐛 fix: resolve issue with date parsing
 0090. ✅ test: increase coverage on auth module
+0690. 🚀 perf: lazy-load components
