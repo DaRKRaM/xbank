@@ -109,3 +109,4 @@
 0146. 🎨 style: apply consistent indentation
 0159. 🚀 perf: lazy-load components
 0947. 📚 docs: write FAQ section
+0804. ♻️ chore: add GitHub actions badge
