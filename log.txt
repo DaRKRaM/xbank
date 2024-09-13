@@ -111,3 +111,4 @@
 0947. 📚 docs: write FAQ section
 0804. ♻️ chore: add GitHub actions badge
 0526. ✨ feat: add user authentication
+0459. 🔧 refactor: organize models into subfolders
