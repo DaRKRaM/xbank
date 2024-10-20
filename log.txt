@@ -120,3 +120,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0215. 🎨 style: reformat files with black
 0085. ✨ feat: support email verification
+0664. ✅ test: add unit test for quiz service
