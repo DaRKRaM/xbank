@@ -122,3 +122,4 @@
 0085. ✨ feat: support email verification
 0664. ✅ test: add unit test for quiz service
 0846. ✨ feat: implement quiz timer feature
+0744. 🔧 refactor: remove redundant code blocks
