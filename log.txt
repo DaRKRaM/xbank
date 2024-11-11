@@ -125,3 +125,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0174. 📚 docs: clarify environment setup
 0818. 🔧 refactor: remove redundant code blocks
+0440. 📚 docs: update README with setup steps
