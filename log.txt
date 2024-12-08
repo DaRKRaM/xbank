@@ -129,3 +129,4 @@
 0056. ♻️ chore: rename env.example
 0638. 📚 docs: improve code comments in utils
 0387. ✨ feat: enable dark mode toggle
+0799. ♻️ chore: clean up unused files
