@@ -200,3 +200,4 @@
 0252. 🎨 style: remove trailing whitespace
 0691. 🎨 style: rename variables for clarity
 0506. 🐛 fix: handle 500 error in quiz API
+0316. 🐛 fix: fix broken CSS in mobile view
