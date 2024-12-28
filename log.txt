@@ -1200,3 +1200,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0305. ✨ feat: enable dark mode toggle
 0633. ✨ feat: add user authentication
+0544. 🔧 refactor: organize models into subfolders
