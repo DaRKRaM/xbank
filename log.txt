@@ -1204,3 +1204,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0225. 🚀 perf: reduce image load time
 0117. ✅ test: increase coverage on auth module
+0390. 🎨 style: standardize quote style
