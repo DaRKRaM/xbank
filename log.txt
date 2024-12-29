@@ -203,3 +203,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0623. 🎨 style: standardize quote style
 0203. 🚀 perf: lazy-load components
+0080. ✨ feat: support email verification
