@@ -205,3 +205,4 @@
 0203. 🚀 perf: lazy-load components
 0080. ✨ feat: support email verification
 0875. ✅ test: increase coverage on auth module
+0932. ✅ test: add integration test for /submit endpoint
