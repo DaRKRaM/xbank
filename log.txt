@@ -3208,3 +3208,4 @@
 0725. 🚀 perf: lazy-load components
 0424. ✨ feat: add user authentication
 0928. 🎨 style: apply consistent indentation
+0847. ♻️ chore: clean up unused files
