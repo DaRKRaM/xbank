@@ -1207,3 +1207,4 @@
 0390. 🎨 style: standardize quote style
 0709. ♻️ chore: bump dependencies
 0833. ✨ feat: add user authentication
+0394. 🚀 perf: lazy-load components
