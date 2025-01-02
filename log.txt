@@ -213,3 +213,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0375. 🐛 fix: handle 500 error in quiz API
 0377. ✨ feat: add user authentication
+0331. 🐛 fix: fix broken CSS in mobile view
