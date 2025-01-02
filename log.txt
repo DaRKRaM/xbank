@@ -3211,3 +3211,4 @@
 0847. ♻️ chore: clean up unused files
 0833. ✨ feat: add user authentication
 0300. ✨ feat: add export to CSV option
+0167. 🚀 perf: reduce image load time
