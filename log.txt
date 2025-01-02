@@ -3213,3 +3213,4 @@
 0300. ✨ feat: add export to CSV option
 0167. 🚀 perf: reduce image load time
 0848. 📚 docs: update README with setup steps
+0793. 📚 docs: clarify environment setup
