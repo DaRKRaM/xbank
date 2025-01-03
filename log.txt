@@ -215,3 +215,4 @@
 0377. ✨ feat: add user authentication
 0331. 🐛 fix: fix broken CSS in mobile view
 0389. 📚 docs: improve code comments in utils
+0531. 🐛 fix: prevent crash on empty input
