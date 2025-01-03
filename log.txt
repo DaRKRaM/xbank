@@ -2209,3 +2209,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0192. ✨ feat: enable dark mode toggle
 0912. 📚 docs: document token refresh logic
+0091. ✨ feat: add user authentication
