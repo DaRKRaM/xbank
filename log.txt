@@ -3215,3 +3215,4 @@
 0848. 📚 docs: update README with setup steps
 0793. 📚 docs: clarify environment setup
 0686. 🎨 style: standardize quote style
+0105. 🐛 fix: correct typo in registration form
