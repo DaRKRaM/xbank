@@ -1217,3 +1217,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0017. ✅ test: mock database connection in test suite
 0124. 🎨 style: reformat files with black
+0958. 🐛 fix: prevent crash on empty input
