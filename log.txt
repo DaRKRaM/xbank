@@ -2213,3 +2213,4 @@
 0196. ♻️ chore: bump dependencies
 0300. ✨ feat: add export to CSV option
 0144. ✅ test: increase coverage on auth module
+0118. 🚀 perf: reduce image load time
