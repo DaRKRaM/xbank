@@ -1219,3 +1219,4 @@
 0124. 🎨 style: reformat files with black
 0958. 🐛 fix: prevent crash on empty input
 0807. 🔧 refactor: remove redundant code blocks
+0329. 📚 docs: update README with setup steps
