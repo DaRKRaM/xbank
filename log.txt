@@ -218,3 +218,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0817. 🔧 refactor: remove redundant code blocks
 0470. 🎨 style: remove trailing whitespace
+0201. 🔧 refactor: clean up auth middleware
