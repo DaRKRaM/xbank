@@ -1221,3 +1221,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0329. 📚 docs: update README with setup steps
 0679. ♻️ chore: bump dependencies
+0826. 📚 docs: clarify environment setup
