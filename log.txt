@@ -3217,3 +3217,4 @@
 0686. 🎨 style: standardize quote style
 0105. 🐛 fix: correct typo in registration form
 0367. 🐛 fix: fix null pointer exception on login
+0055. 📚 docs: update README with setup steps
