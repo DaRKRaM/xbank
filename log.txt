@@ -222,3 +222,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0717. 🔧 refactor: refactor quiz grading logic
 0757. 🔧 refactor: remove redundant code blocks
+0344. ♻️ chore: add GitHub actions badge
