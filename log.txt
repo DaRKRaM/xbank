@@ -225,3 +225,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0959. 🐛 fix: fix null pointer exception on login
 0788. 📚 docs: add API usage examples
+0523. ♻️ chore: bump dependencies
