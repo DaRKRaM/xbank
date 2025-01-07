@@ -226,3 +226,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0788. 📚 docs: add API usage examples
 0523. ♻️ chore: bump dependencies
+0787. ♻️ chore: rename env.example
