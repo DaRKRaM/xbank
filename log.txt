@@ -227,3 +227,4 @@
 0788. 📚 docs: add API usage examples
 0523. ♻️ chore: bump dependencies
 0787. ♻️ chore: rename env.example
+0012. 🚀 perf: cache repeated calculations
