@@ -1229,3 +1229,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0730. ✅ test: test user registration edge cases
 0387. ✨ feat: enable dark mode toggle
+0340. 🚀 perf: optimize database query for quiz results
