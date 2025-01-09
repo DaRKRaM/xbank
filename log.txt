@@ -2228,3 +2228,4 @@
 0655. 🚀 perf: cache repeated calculations
 0901. ✨ feat: add user authentication
 0560. 🎨 style: rename variables for clarity
+0650. ✅ test: add unit test for quiz service
