@@ -233,3 +233,4 @@
 0356. 📚 docs: write FAQ section
 0395. 📚 docs: write FAQ section
 0553. 🐛 fix: correct typo in registration form
+0280. ✅ test: add integration test for /submit endpoint
