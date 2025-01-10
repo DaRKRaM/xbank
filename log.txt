@@ -242,3 +242,4 @@
 0594. 🎨 style: reformat files with black
 0561. 📚 docs: write FAQ section
 0804. ♻️ chore: add GitHub actions badge
+0908. ♻️ chore: bump dependencies
