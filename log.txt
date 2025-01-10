@@ -3228,3 +3228,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0347. ♻️ chore: update .gitignore
 0142. ✨ feat: implement quiz timer feature
+0732. ♻️ chore: add GitHub actions badge
