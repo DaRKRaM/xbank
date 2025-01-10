@@ -241,3 +241,4 @@
 0722. 📚 docs: add API usage examples
 0594. 🎨 style: reformat files with black
 0561. 📚 docs: write FAQ section
+0804. ♻️ chore: add GitHub actions badge
