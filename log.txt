@@ -240,3 +240,4 @@
 0946. ✅ test: add unit test for quiz service
 0722. 📚 docs: add API usage examples
 0594. 🎨 style: reformat files with black
+0561. 📚 docs: write FAQ section
