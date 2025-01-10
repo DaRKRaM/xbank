@@ -3229,3 +3229,4 @@
 0347. ♻️ chore: update .gitignore
 0142. ✨ feat: implement quiz timer feature
 0732. ♻️ chore: add GitHub actions badge
+0227. ✅ test: test user registration edge cases
