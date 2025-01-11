@@ -245,3 +245,4 @@
 0908. ♻️ chore: bump dependencies
 0255. 🔧 refactor: refactor quiz grading logic
 0366. 🔧 refactor: remove redundant code blocks
+0085. ✨ feat: support email verification
