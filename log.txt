@@ -3237,3 +3237,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0083. 🎨 style: reformat files with black
 0170. ✅ test: increase coverage on auth module
+0800. 🚀 perf: optimize database query for quiz results
