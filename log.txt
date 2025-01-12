@@ -2234,3 +2234,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0860. 🔧 refactor: organize models into subfolders
 0062. ♻️ chore: update .gitignore
+0811. 🎨 style: reformat files with black
