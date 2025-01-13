@@ -1247,3 +1247,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0628. ♻️ chore: add GitHub actions badge
 0177. 📚 docs: add API usage examples
+0649. 📚 docs: update README with setup steps
