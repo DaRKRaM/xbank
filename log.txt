@@ -2237,3 +2237,4 @@
 0811. 🎨 style: reformat files with black
 0725. 🚀 perf: lazy-load components
 0455. ♻️ chore: clean up unused files
+0524. ♻️ chore: rename env.example
