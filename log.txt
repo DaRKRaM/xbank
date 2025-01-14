@@ -258,3 +258,4 @@
 0048. 📚 docs: update README with setup steps
 0107. 🐛 fix: prevent crash on empty input
 0307. ✨ feat: support email verification
+0587. 🔧 refactor: remove redundant code blocks
