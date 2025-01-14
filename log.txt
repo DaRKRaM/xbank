@@ -2235,3 +2235,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0062. ♻️ chore: update .gitignore
 0811. 🎨 style: reformat files with black
+0725. 🚀 perf: lazy-load components
