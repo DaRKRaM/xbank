@@ -3242,3 +3242,4 @@
 0392. 🎨 style: remove trailing whitespace
 0162. ♻️ chore: add GitHub actions badge
 0365. 🚀 perf: reduce image load time
+0386. 🚀 perf: optimize database query for quiz results
