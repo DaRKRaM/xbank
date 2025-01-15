@@ -2239,3 +2239,4 @@
 0455. ♻️ chore: clean up unused files
 0524. ♻️ chore: rename env.example
 0282. 🔧 refactor: remove redundant code blocks
+0618. ✨ feat: support email verification
