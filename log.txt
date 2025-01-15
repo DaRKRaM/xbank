@@ -3248,3 +3248,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0161. ✨ feat: create admin dashboard
 0797. 📚 docs: add API usage examples
+0778. 📚 docs: write FAQ section
