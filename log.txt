@@ -1254,3 +1254,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0492. 🎨 style: remove trailing whitespace
 0505. ♻️ chore: add GitHub actions badge
+0707. 🎨 style: apply consistent indentation
