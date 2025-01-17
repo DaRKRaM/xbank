@@ -267,3 +267,4 @@
 1000. ✅ test: increase coverage on auth module
 0538. 🐛 fix: fix broken CSS in mobile view
 0177. 📚 docs: add API usage examples
+0922. 📚 docs: write FAQ section
