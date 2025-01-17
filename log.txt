@@ -1258,3 +1258,4 @@
 0259. 🚀 perf: lazy-load components
 0059. ♻️ chore: bump dependencies
 0237. 🎨 style: standardize quote style
+0896. 🚀 perf: reduce image load time
