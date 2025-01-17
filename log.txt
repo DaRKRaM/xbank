@@ -2248,3 +2248,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0809. ♻️ chore: rename env.example
 0734. ✨ feat: add export to CSV option
+0116. ✨ feat: support email verification
