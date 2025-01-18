@@ -3260,3 +3260,4 @@
 0010. ✨ feat: add user authentication
 0626. 🎨 style: standardize quote style
 0981. 🚀 perf: lazy-load components
+0485. 📚 docs: update README with setup steps
