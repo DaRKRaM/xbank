@@ -271,3 +271,4 @@
 0150. 🎨 style: remove trailing whitespace
 0034. 📚 docs: improve code comments in utils
 0963. 🚀 perf: reduce image load time
+0188. 🎨 style: apply consistent indentation
