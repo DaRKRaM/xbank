@@ -1263,3 +1263,4 @@
 0146. 🎨 style: apply consistent indentation
 0608. 🔧 refactor: remove redundant code blocks
 0660. 🐛 fix: correct typo in registration form
+0895. ✨ feat: support email verification
