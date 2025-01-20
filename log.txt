@@ -2259,3 +2259,4 @@
 0362. 📚 docs: add API usage examples
 0862. ♻️ chore: bump dependencies
 0746. ♻️ chore: add GitHub actions badge
+0073. 🔧 refactor: split large controller into smaller functions
