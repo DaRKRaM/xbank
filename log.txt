@@ -1267,3 +1267,4 @@
 0921. 🐛 fix: correct typo in registration form
 0464. 🎨 style: remove trailing whitespace
 0545. 🎨 style: standardize quote style
+0469. 🚀 perf: lazy-load components
