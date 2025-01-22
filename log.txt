@@ -277,3 +277,4 @@
 0001. 🚀 perf: cache repeated calculations
 0615. 🐛 fix: correct typo in registration form
 0276. ✅ test: add integration test for /submit endpoint
+0901. ✨ feat: add user authentication
