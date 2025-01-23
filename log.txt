@@ -281,3 +281,4 @@
 0098. 🎨 style: rename variables for clarity
 0383. 🐛 fix: fix broken CSS in mobile view
 0630. 🚀 perf: lazy-load components
+0684. 🚀 perf: reduce image load time
