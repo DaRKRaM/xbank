@@ -283,3 +283,4 @@
 0630. 🚀 perf: lazy-load components
 0684. 🚀 perf: reduce image load time
 0477. 🐛 fix: fix broken CSS in mobile view
+0118. 🚀 perf: reduce image load time
