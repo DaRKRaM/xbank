@@ -1274,3 +1274,4 @@
 0085. ✨ feat: support email verification
 0502. 📚 docs: update README with setup steps
 0157. ✅ test: mock database connection in test suite
+0481. ✅ test: add unit test for quiz service
