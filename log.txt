@@ -1277,3 +1277,4 @@
 0481. ✅ test: add unit test for quiz service
 0054. ♻️ chore: update .gitignore
 0200. 🐛 fix: handle 500 error in quiz API
+0561. 📚 docs: write FAQ section
