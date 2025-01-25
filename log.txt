@@ -291,3 +291,4 @@
 0859. ✨ feat: create admin dashboard
 0893. 🐛 fix: handle 500 error in quiz API
 0358. 🚀 perf: reduce image load time
+0492. 🎨 style: remove trailing whitespace
