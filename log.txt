@@ -2273,3 +2273,4 @@
 0307. ✨ feat: support email verification
 0365. 🚀 perf: reduce image load time
 0324. 📚 docs: document token refresh logic
+0207. 🐛 fix: prevent crash on empty input
