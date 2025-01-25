@@ -287,3 +287,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0269. ✅ test: test user registration edge cases
 0396. 🔧 refactor: split large controller into smaller functions
+0169. 📚 docs: add API usage examples
