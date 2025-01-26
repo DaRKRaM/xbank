@@ -3286,3 +3286,4 @@
 0209. ✨ feat: implement quiz timer feature
 0792. 🎨 style: standardize quote style
 0370. 🚀 perf: reduce image load time
+0290. ✅ test: test user registration edge cases
