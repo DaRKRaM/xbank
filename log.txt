@@ -1280,3 +1280,4 @@
 0561. 📚 docs: write FAQ section
 0290. ✅ test: test user registration edge cases
 0655. 🚀 perf: cache repeated calculations
+0788. 📚 docs: add API usage examples
