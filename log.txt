@@ -1281,3 +1281,4 @@
 0290. ✅ test: test user registration edge cases
 0655. 🚀 perf: cache repeated calculations
 0788. 📚 docs: add API usage examples
+0233. 🚀 perf: lazy-load components
