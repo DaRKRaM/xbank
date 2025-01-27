@@ -293,3 +293,4 @@
 0358. 🚀 perf: reduce image load time
 0492. 🎨 style: remove trailing whitespace
 0982. 🚀 perf: lazy-load components
+0913. 🚀 perf: optimize database query for quiz results
