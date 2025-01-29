@@ -3295,3 +3295,4 @@
 0864. 🐛 fix: correct typo in registration form
 0727. ♻️ chore: add GitHub actions badge
 0444. ✅ test: add unit test for quiz service
+0433. 🐛 fix: prevent crash on empty input
