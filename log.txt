@@ -304,3 +304,4 @@
 0461. ✨ feat: add user authentication
 0297. 🎨 style: remove trailing whitespace
 0890. 🔧 refactor: organize models into subfolders
+0789. ✨ feat: create admin dashboard
