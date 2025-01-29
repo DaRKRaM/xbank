@@ -305,3 +305,4 @@
 0297. 🎨 style: remove trailing whitespace
 0890. 🔧 refactor: organize models into subfolders
 0789. ✨ feat: create admin dashboard
+0193. 🚀 perf: optimize database query for quiz results
