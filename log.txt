@@ -310,3 +310,4 @@
 0596. ♻️ chore: update .gitignore
 0460. 📚 docs: write FAQ section
 0155. ✨ feat: create admin dashboard
+0237. 🎨 style: standardize quote style
