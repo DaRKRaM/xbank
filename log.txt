@@ -2292,3 +2292,4 @@
 0174. 📚 docs: clarify environment setup
 0479. 🐛 fix: fix null pointer exception on login
 0393. 🚀 perf: lazy-load components
+0026. 🔧 refactor: clean up auth middleware
