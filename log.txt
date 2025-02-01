@@ -2291,3 +2291,4 @@
 0925. ✨ feat: add export to CSV option
 0174. 📚 docs: clarify environment setup
 0479. 🐛 fix: fix null pointer exception on login
+0393. 🚀 perf: lazy-load components
