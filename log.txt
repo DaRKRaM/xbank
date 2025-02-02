@@ -1296,3 +1296,4 @@
 0524. ♻️ chore: rename env.example
 0318. 🔧 refactor: refactor quiz grading logic
 0169. 📚 docs: add API usage examples
+0641. 📚 docs: write FAQ section
