@@ -1299,3 +1299,4 @@
 0641. 📚 docs: write FAQ section
 0080. ✨ feat: support email verification
 0125. ✅ test: add integration test for /submit endpoint
+0120. ✅ test: add integration test for /submit endpoint
