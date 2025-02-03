@@ -3314,3 +3314,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0523. ♻️ chore: bump dependencies
 0328. 🐛 fix: resolve issue with date parsing
+0977. 🔧 refactor: organize models into subfolders
