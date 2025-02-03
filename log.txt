@@ -318,3 +318,4 @@
 0620. ✨ feat: implement quiz timer feature
 0732. ♻️ chore: add GitHub actions badge
 0448. 🐛 fix: correct typo in registration form
+0935. 📚 docs: update README with setup steps
