@@ -3315,3 +3315,4 @@
 0523. ♻️ chore: bump dependencies
 0328. 🐛 fix: resolve issue with date parsing
 0977. 🔧 refactor: organize models into subfolders
+0538. 🐛 fix: fix broken CSS in mobile view
