@@ -2301,3 +2301,4 @@
 0889. 🚀 perf: lazy-load components
 0139. 📚 docs: document token refresh logic
 0172. 📚 docs: add API usage examples
+0408. ♻️ chore: add GitHub actions badge
