@@ -323,3 +323,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0230. ✨ feat: create admin dashboard
 0602. 🔧 refactor: remove redundant code blocks
+0430. 🐛 fix: fix null pointer exception on login
