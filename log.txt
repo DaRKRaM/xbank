@@ -2303,3 +2303,4 @@
 0172. 📚 docs: add API usage examples
 0408. ♻️ chore: add GitHub actions badge
 0632. 🎨 style: remove trailing whitespace
+0950. 🎨 style: reformat files with black
