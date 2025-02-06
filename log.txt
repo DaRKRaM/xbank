@@ -1306,3 +1306,4 @@
 0572. ✨ feat: add user authentication
 0665. ♻️ chore: update .gitignore
 0443. 🎨 style: standardize quote style
+0159. 🚀 perf: lazy-load components
