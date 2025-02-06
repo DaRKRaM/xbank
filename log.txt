@@ -143,3 +143,4 @@
 0431. 🎨 style: reformat files with black
 0681. ✨ feat: create admin dashboard
 0956. 📚 docs: clarify environment setup
+0177. 📚 docs: add API usage examples
