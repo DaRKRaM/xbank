@@ -2309,3 +2309,4 @@
 0242. ♻️ chore: clean up unused files
 0219. ✅ test: increase coverage on auth module
 0104. 🎨 style: apply consistent indentation
+0029. 🚀 perf: lazy-load components
