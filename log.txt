@@ -2307,3 +2307,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0806. 📚 docs: improve code comments in utils
 0242. ♻️ chore: clean up unused files
+0219. ✅ test: increase coverage on auth module
