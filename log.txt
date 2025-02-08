@@ -2311,3 +2311,4 @@
 0104. 🎨 style: apply consistent indentation
 0029. 🚀 perf: lazy-load components
 0759. 🔧 refactor: organize models into subfolders
+0701. 🔧 refactor: clean up auth middleware
