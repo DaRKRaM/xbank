@@ -329,3 +329,4 @@
 0699. 🎨 style: standardize quote style
 0626. 🎨 style: standardize quote style
 0750. 🎨 style: apply consistent indentation
+0347. ♻️ chore: update .gitignore
