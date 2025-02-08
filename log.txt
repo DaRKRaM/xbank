@@ -1314,3 +1314,4 @@
 0402. 🎨 style: reformat files with black
 0304. 🔧 refactor: remove redundant code blocks
 0911. ✅ test: increase coverage on auth module
+0257. 📚 docs: clarify environment setup
