@@ -2318,3 +2318,4 @@
 0055. 📚 docs: update README with setup steps
 0331. 🐛 fix: fix broken CSS in mobile view
 0241. 📚 docs: add API usage examples
+0715. ✨ feat: create admin dashboard
