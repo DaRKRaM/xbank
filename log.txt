@@ -333,3 +333,4 @@
 0563. 📚 docs: clarify environment setup
 0693. 📚 docs: add API usage examples
 0260. ✨ feat: create admin dashboard
+0873. 🚀 perf: cache repeated calculations
