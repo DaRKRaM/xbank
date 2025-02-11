@@ -145,3 +145,4 @@
 0956. 📚 docs: clarify environment setup
 0177. 📚 docs: add API usage examples
 0472. 🐛 fix: fix null pointer exception on login
+0423. ✅ test: mock database connection in test suite
