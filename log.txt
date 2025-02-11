@@ -2319,3 +2319,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0241. 📚 docs: add API usage examples
 0715. ✨ feat: create admin dashboard
+0415. 🐛 fix: handle 500 error in quiz API
