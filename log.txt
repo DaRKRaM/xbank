@@ -3340,3 +3340,4 @@
 0031. 📚 docs: document token refresh logic
 0722. 📚 docs: add API usage examples
 0949. 📚 docs: write FAQ section
+0895. ✨ feat: support email verification
