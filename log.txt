@@ -3341,3 +3341,4 @@
 0722. 📚 docs: add API usage examples
 0949. 📚 docs: write FAQ section
 0895. ✨ feat: support email verification
+0287. 📚 docs: write FAQ section
