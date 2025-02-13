@@ -3344,3 +3344,4 @@
 0287. 📚 docs: write FAQ section
 0371. ✅ test: add integration test for /submit endpoint
 0614. 🚀 perf: reduce image load time
+0125. ✅ test: add integration test for /submit endpoint
