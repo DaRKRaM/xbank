@@ -341,3 +341,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0041. 🐛 fix: fix broken CSS in mobile view
 0071. 🔧 refactor: refactor quiz grading logic
+0617. ✨ feat: support email verification
