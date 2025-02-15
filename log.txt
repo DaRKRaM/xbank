@@ -1329,3 +1329,4 @@
 0153. ♻️ chore: rename env.example
 0240. 🔧 refactor: remove redundant code blocks
 0195. 📚 docs: clarify environment setup
+0762. 🚀 perf: lazy-load components
