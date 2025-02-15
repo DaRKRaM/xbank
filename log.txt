@@ -2325,3 +2325,4 @@
 0872. 🎨 style: rename variables for clarity
 0709. ♻️ chore: bump dependencies
 0634. 🎨 style: reformat files with black
+0866. 📚 docs: add API usage examples
