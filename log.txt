@@ -349,3 +349,4 @@
 0452. ✨ feat: implement quiz timer feature
 0806. 📚 docs: improve code comments in utils
 0715. ✨ feat: create admin dashboard
+0800. 🚀 perf: optimize database query for quiz results
