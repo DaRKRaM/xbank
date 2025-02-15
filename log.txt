@@ -3352,3 +3352,4 @@
 0987. ✨ feat: create admin dashboard
 0795. 📚 docs: update README with setup steps
 0969. ✨ feat: create admin dashboard
+0618. ✨ feat: support email verification
