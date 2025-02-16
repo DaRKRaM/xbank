@@ -2326,3 +2326,4 @@
 0709. ♻️ chore: bump dependencies
 0634. 🎨 style: reformat files with black
 0866. 📚 docs: add API usage examples
+0708. ✅ test: add integration test for /submit endpoint
