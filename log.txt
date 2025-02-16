@@ -3355,3 +3355,4 @@
 0618. ✨ feat: support email verification
 0635. 🎨 style: apply consistent indentation
 0420. 🚀 perf: reduce image load time
+0244. ✨ feat: add export to CSV option
