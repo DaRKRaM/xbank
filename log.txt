@@ -3359,3 +3359,4 @@
 0249. ✅ test: increase coverage on auth module
 0127. 🐛 fix: fix null pointer exception on login
 0866. 📚 docs: add API usage examples
+0419. 🎨 style: remove trailing whitespace
