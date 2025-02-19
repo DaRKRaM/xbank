@@ -3364,3 +3364,4 @@
 0003. ✅ test: increase coverage on auth module
 0005. ✅ test: add unit test for quiz service
 0923. ✨ feat: support email verification
+0588. 🔧 refactor: organize models into subfolders
