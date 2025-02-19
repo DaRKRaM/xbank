@@ -3363,3 +3363,4 @@
 0407. 🚀 perf: cache repeated calculations
 0003. ✅ test: increase coverage on auth module
 0005. ✅ test: add unit test for quiz service
+0923. ✨ feat: support email verification
