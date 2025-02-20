@@ -3368,3 +3368,4 @@
 0196. ♻️ chore: bump dependencies
 0756. ✨ feat: support email verification
 0871. ✅ test: add integration test for /submit endpoint
+0652. 🔧 refactor: organize models into subfolders
