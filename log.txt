@@ -1345,3 +1345,4 @@
 0370. 🚀 perf: reduce image load time
 0371. ✅ test: add integration test for /submit endpoint
 0465. 🎨 style: rename variables for clarity
+0906. 📚 docs: add API usage examples
