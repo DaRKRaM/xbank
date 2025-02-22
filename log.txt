@@ -1349,3 +1349,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0569. 📚 docs: document token refresh logic
 0348. ✅ test: test user registration edge cases
+0500. ✅ test: add integration test for /submit endpoint
