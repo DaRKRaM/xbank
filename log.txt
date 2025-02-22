@@ -2340,3 +2340,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0629. 🔧 refactor: organize models into subfolders
 0784. ♻️ chore: clean up unused files
+0320. 📚 docs: update README with setup steps
