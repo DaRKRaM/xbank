@@ -3377,3 +3377,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0573. ✅ test: add integration test for /submit endpoint
 0234. ♻️ chore: rename env.example
+0531. 🐛 fix: prevent crash on empty input
