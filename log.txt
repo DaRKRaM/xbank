@@ -1354,3 +1354,4 @@
 0337. 📚 docs: document token refresh logic
 0202. 🔧 refactor: refactor quiz grading logic
 0407. 🚀 perf: cache repeated calculations
+0913. 🚀 perf: optimize database query for quiz results
