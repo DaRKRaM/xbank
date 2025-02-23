@@ -363,3 +363,4 @@
 0953. 🎨 style: remove trailing whitespace
 0811. 🎨 style: reformat files with black
 0180. ✨ feat: add export to CSV option
+0884. 📚 docs: clarify environment setup
