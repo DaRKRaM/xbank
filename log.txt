@@ -2344,3 +2344,4 @@
 0165. 🎨 style: remove trailing whitespace
 0840. 🔧 refactor: refactor quiz grading logic
 0665. ♻️ chore: update .gitignore
+0913. 🚀 perf: optimize database query for quiz results
