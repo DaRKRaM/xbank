@@ -3381,3 +3381,4 @@
 0572. ✨ feat: add user authentication
 0967. ♻️ chore: add GitHub actions badge
 0268. 🐛 fix: prevent crash on empty input
+0994. 🚀 perf: reduce image load time
