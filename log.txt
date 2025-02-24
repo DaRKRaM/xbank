@@ -2343,3 +2343,4 @@
 0320. 📚 docs: update README with setup steps
 0165. 🎨 style: remove trailing whitespace
 0840. 🔧 refactor: refactor quiz grading logic
+0665. ♻️ chore: update .gitignore
