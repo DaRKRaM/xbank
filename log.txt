@@ -2348,3 +2348,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0223. 🔧 refactor: remove redundant code blocks
 0399. ✅ test: mock database connection in test suite
+0766. 🎨 style: reformat files with black
