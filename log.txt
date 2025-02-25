@@ -1359,3 +1359,4 @@
 0910. 🎨 style: remove trailing whitespace
 0272. 🔧 refactor: remove redundant code blocks
 0053. ✅ test: increase coverage on auth module
+0336. ✨ feat: add export to CSV option
