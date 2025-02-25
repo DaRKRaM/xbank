@@ -1358,3 +1358,4 @@
 0308. 🚀 perf: reduce image load time
 0910. 🎨 style: remove trailing whitespace
 0272. 🔧 refactor: remove redundant code blocks
+0053. ✅ test: increase coverage on auth module
