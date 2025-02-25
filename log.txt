@@ -3383,3 +3383,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0994. 🚀 perf: reduce image load time
 0307. ✨ feat: support email verification
+0412. ✅ test: increase coverage on auth module
