@@ -2353,3 +2353,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0240. 🔧 refactor: remove redundant code blocks
 0658. 🎨 style: rename variables for clarity
+0477. 🐛 fix: fix broken CSS in mobile view
