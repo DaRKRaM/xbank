@@ -1361,3 +1361,4 @@
 0053. ✅ test: increase coverage on auth module
 0336. ✨ feat: add export to CSV option
 0739. 🎨 style: remove trailing whitespace
+0118. 🚀 perf: reduce image load time
