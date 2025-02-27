@@ -2358,3 +2358,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0831. 📚 docs: clarify environment setup
 0290. ✅ test: test user registration edge cases
+0489. 🔧 refactor: organize models into subfolders
