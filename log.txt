@@ -372,3 +372,4 @@
 0175. 📚 docs: add API usage examples
 0185. 📚 docs: write FAQ section
 0069. 🎨 style: rename variables for clarity
+0801. ✨ feat: enable dark mode toggle
