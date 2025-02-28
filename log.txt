@@ -2364,3 +2364,4 @@
 0553. 🐛 fix: correct typo in registration form
 0739. 🎨 style: remove trailing whitespace
 0264. 🚀 perf: optimize database query for quiz results
+0005. ✅ test: add unit test for quiz service
