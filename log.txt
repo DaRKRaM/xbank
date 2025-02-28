@@ -1362,3 +1362,4 @@
 0336. ✨ feat: add export to CSV option
 0739. 🎨 style: remove trailing whitespace
 0118. 🚀 perf: reduce image load time
+0303. 🎨 style: rename variables for clarity
