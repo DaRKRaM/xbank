@@ -3389,3 +3389,4 @@
 0451. ✨ feat: support email verification
 0484. 🐛 fix: handle 500 error in quiz API
 0236. 🔧 refactor: remove redundant code blocks
+0496. ✅ test: add integration test for /submit endpoint
