@@ -2360,3 +2360,4 @@
 0290. ✅ test: test user registration edge cases
 0489. 🔧 refactor: organize models into subfolders
 0635. 🎨 style: apply consistent indentation
+0865. ♻️ chore: add GitHub actions badge
