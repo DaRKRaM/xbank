@@ -378,3 +378,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0835. 🐛 fix: prevent crash on empty input
 0695. ✨ feat: create admin dashboard
+0618. ✨ feat: support email verification
