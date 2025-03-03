@@ -1374,3 +1374,4 @@
 0993. ✨ feat: implement quiz timer feature
 0287. 📚 docs: write FAQ section
 0986. 📚 docs: document token refresh logic
+0642. 🚀 perf: optimize database query for quiz results
