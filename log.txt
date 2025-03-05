@@ -2375,3 +2375,4 @@
 0151. ✅ test: add unit test for quiz service
 0024. 📚 docs: write FAQ section
 0944. ✨ feat: add user authentication
+0319. 🐛 fix: handle 500 error in quiz API
