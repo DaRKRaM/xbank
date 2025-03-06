@@ -2378,3 +2378,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0221. ✨ feat: add user authentication
 0984. ♻️ chore: clean up unused files
+0580. ♻️ chore: bump dependencies
