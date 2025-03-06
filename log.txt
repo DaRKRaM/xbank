@@ -2379,3 +2379,4 @@
 0221. ✨ feat: add user authentication
 0984. ♻️ chore: clean up unused files
 0580. ♻️ chore: bump dependencies
+0471. ✨ feat: support email verification
