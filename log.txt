@@ -1382,3 +1382,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0215. 🎨 style: reformat files with black
 0570. 🎨 style: apply consistent indentation
+0335. ♻️ chore: update .gitignore
