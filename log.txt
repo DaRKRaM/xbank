@@ -2380,3 +2380,4 @@
 0984. ♻️ chore: clean up unused files
 0580. ♻️ chore: bump dependencies
 0471. ✨ feat: support email verification
+0651. ✨ feat: enable dark mode toggle
