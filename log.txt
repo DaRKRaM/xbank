@@ -389,3 +389,4 @@
 0447. ♻️ chore: bump dependencies
 0885. ♻️ chore: update .gitignore
 0597. 🚀 perf: cache repeated calculations
+0418. ✅ test: mock database connection in test suite
