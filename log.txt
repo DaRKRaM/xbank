@@ -3406,3 +3406,4 @@
 0745. ✅ test: add unit test for quiz service
 0868. ✅ test: add unit test for quiz service
 0899. 🚀 perf: cache repeated calculations
+0702. ✨ feat: add user authentication
