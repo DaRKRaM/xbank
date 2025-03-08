@@ -393,3 +393,4 @@
 0300. ✨ feat: add export to CSV option
 0976. ✨ feat: implement quiz timer feature
 0755. 🚀 perf: cache repeated calculations
+0140. 🐛 fix: handle 500 error in quiz API
