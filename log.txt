@@ -2381,3 +2381,4 @@
 0580. ♻️ chore: bump dependencies
 0471. ✨ feat: support email verification
 0651. ✨ feat: enable dark mode toggle
+0820. 📚 docs: add API usage examples
