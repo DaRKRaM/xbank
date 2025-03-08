@@ -3411,3 +3411,4 @@
 0254. 🚀 perf: reduce image load time
 0631. ✨ feat: create admin dashboard
 0324. 📚 docs: document token refresh logic
+0058. ♻️ chore: add GitHub actions badge
