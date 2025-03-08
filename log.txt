@@ -392,3 +392,4 @@
 0418. ✅ test: mock database connection in test suite
 0300. ✨ feat: add export to CSV option
 0976. ✨ feat: implement quiz timer feature
+0755. 🚀 perf: cache repeated calculations
