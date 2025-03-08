@@ -394,3 +394,4 @@
 0976. ✨ feat: implement quiz timer feature
 0755. 🚀 perf: cache repeated calculations
 0140. 🐛 fix: handle 500 error in quiz API
+0162. ♻️ chore: add GitHub actions badge
