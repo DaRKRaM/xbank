@@ -2384,3 +2384,4 @@
 0820. 📚 docs: add API usage examples
 0953. 🎨 style: remove trailing whitespace
 0589. 🐛 fix: fix broken CSS in mobile view
+0268. 🐛 fix: prevent crash on empty input
