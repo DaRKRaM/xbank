@@ -2387,3 +2387,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0279. ✨ feat: support email verification
 0247. 🎨 style: apply consistent indentation
+0982. 🚀 perf: lazy-load components
