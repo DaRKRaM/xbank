@@ -401,3 +401,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0363. 📚 docs: clarify environment setup
 0731. 🎨 style: standardize quote style
+0570. 🎨 style: apply consistent indentation
