@@ -404,3 +404,4 @@
 0570. 🎨 style: apply consistent indentation
 0776. ✅ test: add integration test for /submit endpoint
 0767. 🔧 refactor: remove redundant code blocks
+0013. ✅ test: increase coverage on auth module
