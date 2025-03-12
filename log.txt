@@ -406,3 +406,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0013. ✅ test: increase coverage on auth module
 0387. ✨ feat: enable dark mode toggle
+0029. 🚀 perf: lazy-load components
