@@ -412,3 +412,4 @@
 0504. 📚 docs: document token refresh logic
 0956. 📚 docs: clarify environment setup
 0346. ✅ test: mock database connection in test suite
+0101. 📚 docs: clarify environment setup
