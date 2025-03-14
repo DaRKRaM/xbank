@@ -2396,3 +2396,4 @@
 0345. 📚 docs: document token refresh logic
 0449. ✅ test: add unit test for quiz service
 0158. 📚 docs: clarify environment setup
+0088. 📚 docs: add API usage examples
