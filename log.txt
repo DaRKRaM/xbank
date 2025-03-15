@@ -415,3 +415,4 @@
 0101. 📚 docs: clarify environment setup
 0454. ♻️ chore: bump dependencies
 0231. 🔧 refactor: clean up auth middleware
+0031. 📚 docs: document token refresh logic
