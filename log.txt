@@ -416,3 +416,4 @@
 0454. ♻️ chore: bump dependencies
 0231. 🔧 refactor: clean up auth middleware
 0031. 📚 docs: document token refresh logic
+0772. 🐛 fix: fix null pointer exception on login
