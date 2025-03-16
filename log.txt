@@ -3430,3 +3430,4 @@
 0045. 🎨 style: apply consistent indentation
 0960. ✅ test: increase coverage on auth module
 0253. 📚 docs: update README with setup steps
+0590. 🐛 fix: fix null pointer exception on login
