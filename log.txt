@@ -3432,3 +3432,4 @@
 0253. 📚 docs: update README with setup steps
 0590. 🐛 fix: fix null pointer exception on login
 0464. 🎨 style: remove trailing whitespace
+0273. 🚀 perf: reduce image load time
