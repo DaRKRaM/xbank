@@ -2398,3 +2398,4 @@
 0158. 📚 docs: clarify environment setup
 0088. 📚 docs: add API usage examples
 0940. 📚 docs: document token refresh logic
+0712. 🎨 style: apply consistent indentation
