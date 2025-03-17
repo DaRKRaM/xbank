@@ -2399,3 +2399,4 @@
 0088. 📚 docs: add API usage examples
 0940. 📚 docs: document token refresh logic
 0712. 🎨 style: apply consistent indentation
+0829. 🔧 refactor: organize models into subfolders
