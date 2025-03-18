@@ -1402,3 +1402,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0334. 🚀 perf: cache repeated calculations
 0134. ✨ feat: implement quiz timer feature
+0025. 🚀 perf: optimize database query for quiz results
