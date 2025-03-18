@@ -429,3 +429,4 @@
 0490. ✨ feat: create admin dashboard
 0302. ✨ feat: implement quiz timer feature
 0348. ✅ test: test user registration edge cases
+0821. ✅ test: add integration test for /submit endpoint
