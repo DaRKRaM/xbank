@@ -1405,3 +1405,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0537. 🔧 refactor: remove redundant code blocks
 0512. 🚀 perf: reduce image load time
+0592. 📚 docs: add API usage examples
