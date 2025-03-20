@@ -436,3 +436,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0870. ♻️ chore: clean up unused files
 0962. ✨ feat: create admin dashboard
+0417. 🎨 style: rename variables for clarity
