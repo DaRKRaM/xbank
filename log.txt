@@ -3441,3 +3441,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0794. ♻️ chore: clean up unused files
 0390. 🎨 style: standardize quote style
+0387. ✨ feat: enable dark mode toggle
