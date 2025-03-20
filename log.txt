@@ -1409,3 +1409,4 @@
 0273. 🚀 perf: reduce image load time
 0527. 🎨 style: remove trailing whitespace
 0835. 🐛 fix: prevent crash on empty input
+0279. ✨ feat: support email verification
