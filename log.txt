@@ -434,3 +434,4 @@
 0896. 🚀 perf: reduce image load time
 0135. ✅ test: test user registration edge cases
 0063. 🐛 fix: handle 500 error in quiz API
+0870. ♻️ chore: clean up unused files
