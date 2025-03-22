@@ -1413,3 +1413,4 @@
 0002. 🚀 perf: cache repeated calculations
 0609. 🐛 fix: handle 500 error in quiz API
 0741. 🎨 style: apply consistent indentation
+0064. 📚 docs: clarify environment setup
