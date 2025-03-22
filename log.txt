@@ -445,3 +445,4 @@
 0050. ✨ feat: enable dark mode toggle
 0512. 🚀 perf: reduce image load time
 0673. 🐛 fix: correct typo in registration form
+0668. 🚀 perf: optimize database query for quiz results
