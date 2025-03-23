@@ -2418,3 +2418,4 @@
 0700. 🎨 style: rename variables for clarity
 0466. 🚀 perf: optimize database query for quiz results
 0492. 🎨 style: remove trailing whitespace
+0785. ✨ feat: enable dark mode toggle
