@@ -2420,3 +2420,4 @@
 0492. 🎨 style: remove trailing whitespace
 0785. ✨ feat: enable dark mode toggle
 0180. ✨ feat: add export to CSV option
+0231. 🔧 refactor: clean up auth middleware
