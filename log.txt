@@ -449,3 +449,4 @@
 0923. ✨ feat: support email verification
 0397. 🐛 fix: handle 500 error in quiz API
 0456. 🚀 perf: optimize database query for quiz results
+0612. ✅ test: test user registration edge cases
