@@ -3457,3 +3457,4 @@
 0927. ♻️ chore: bump dependencies
 0834. ✅ test: increase coverage on auth module
 0349. ✅ test: increase coverage on auth module
+0223. 🔧 refactor: remove redundant code blocks
