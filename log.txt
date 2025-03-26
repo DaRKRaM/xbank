@@ -451,3 +451,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0612. ✅ test: test user registration edge cases
 0216. 🎨 style: rename variables for clarity
+0469. 🚀 perf: lazy-load components
