@@ -3458,3 +3458,4 @@
 0834. ✅ test: increase coverage on auth module
 0349. ✅ test: increase coverage on auth module
 0223. 🔧 refactor: remove redundant code blocks
+0150. 🎨 style: remove trailing whitespace
