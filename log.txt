@@ -2436,3 +2436,4 @@
 0884. 📚 docs: clarify environment setup
 0067. 🔧 refactor: remove redundant code blocks
 0310. 🔧 refactor: refactor quiz grading logic
+0511. 🐛 fix: fix broken CSS in mobile view
