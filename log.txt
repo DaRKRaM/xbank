@@ -3465,3 +3465,4 @@
 0555. ✨ feat: create admin dashboard
 0509. ♻️ chore: bump dependencies
 0112. ✨ feat: enable dark mode toggle
+0064. 📚 docs: clarify environment setup
