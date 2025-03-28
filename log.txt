@@ -1428,3 +1428,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0061. ✨ feat: create admin dashboard
 0542. 🔧 refactor: organize models into subfolders
+0105. 🐛 fix: correct typo in registration form
