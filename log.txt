@@ -2439,3 +2439,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0826. 📚 docs: clarify environment setup
 0037. 🐛 fix: correct typo in registration form
+0011. ✅ test: add unit test for quiz service
