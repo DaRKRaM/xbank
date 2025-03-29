@@ -3469,3 +3469,4 @@
 0091. ✨ feat: add user authentication
 0294. 🐛 fix: prevent crash on empty input
 0015. ✨ feat: implement quiz timer feature
+0192. ✨ feat: enable dark mode toggle
