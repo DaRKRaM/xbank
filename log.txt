@@ -463,3 +463,4 @@
 0265. 🎨 style: reformat files with black
 0449. ✅ test: add unit test for quiz service
 0547. 📚 docs: write FAQ section
+0527. 🎨 style: remove trailing whitespace
