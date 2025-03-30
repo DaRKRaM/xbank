@@ -1431,3 +1431,4 @@
 0105. 🐛 fix: correct typo in registration form
 0743. 🎨 style: apply consistent indentation
 0006. 🐛 fix: prevent crash on empty input
+0122. ✨ feat: support email verification
