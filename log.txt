@@ -2444,3 +2444,4 @@
 0960. ✅ test: increase coverage on auth module
 0945. ♻️ chore: add GitHub actions badge
 0932. ✅ test: add integration test for /submit endpoint
+0565. ♻️ chore: add GitHub actions badge
