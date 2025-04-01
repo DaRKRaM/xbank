@@ -3480,3 +3480,4 @@
 0706. ✨ feat: support email verification
 0760. 🐛 fix: resolve issue with date parsing
 0584. 🚀 perf: lazy-load components
+0609. 🐛 fix: handle 500 error in quiz API
