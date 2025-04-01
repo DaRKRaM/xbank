@@ -3479,3 +3479,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0706. ✨ feat: support email verification
 0760. 🐛 fix: resolve issue with date parsing
+0584. 🚀 perf: lazy-load components
