@@ -3483,3 +3483,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0074. ♻️ chore: add GitHub actions badge
 0259. 🚀 perf: lazy-load components
+0660. 🐛 fix: correct typo in registration form
