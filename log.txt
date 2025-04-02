@@ -2450,3 +2450,4 @@
 0714. 📚 docs: improve code comments in utils
 0704. 🚀 perf: cache repeated calculations
 0390. 🎨 style: standardize quote style
+0793. 📚 docs: clarify environment setup
