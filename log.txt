@@ -2453,3 +2453,4 @@
 0793. 📚 docs: clarify environment setup
 0260. ✨ feat: create admin dashboard
 0641. 📚 docs: write FAQ section
+0836. 🚀 perf: optimize database query for quiz results
