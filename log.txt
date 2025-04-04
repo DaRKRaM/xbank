@@ -471,3 +471,4 @@
 0351. ✨ feat: add export to CSV option
 0949. 📚 docs: write FAQ section
 0275. 🎨 style: standardize quote style
+0378. 🐛 fix: prevent crash on empty input
