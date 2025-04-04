@@ -469,3 +469,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0714. 📚 docs: improve code comments in utils
 0351. ✨ feat: add export to CSV option
+0949. 📚 docs: write FAQ section
