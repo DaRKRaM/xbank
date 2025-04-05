@@ -1450,3 +1450,4 @@
 0442. 🎨 style: standardize quote style
 0834. ✅ test: increase coverage on auth module
 0974. ✨ feat: add export to CSV option
+0231. 🔧 refactor: clean up auth middleware
