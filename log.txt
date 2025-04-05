@@ -3493,3 +3493,4 @@
 0405. ✅ test: mock database connection in test suite
 0265. 🎨 style: reformat files with black
 0570. 🎨 style: apply consistent indentation
+0434. 📚 docs: document token refresh logic
