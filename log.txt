@@ -2459,3 +2459,4 @@
 0782. 📚 docs: improve code comments in utils
 0510. 🎨 style: rename variables for clarity
 0547. 📚 docs: write FAQ section
+0827. 🚀 perf: optimize database query for quiz results
