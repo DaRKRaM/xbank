@@ -473,3 +473,4 @@
 0275. 🎨 style: standardize quote style
 0378. 🐛 fix: prevent crash on empty input
 0593. 🐛 fix: correct typo in registration form
+0259. 🚀 perf: lazy-load components
