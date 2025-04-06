@@ -3498,3 +3498,4 @@
 0137. 🎨 style: rename variables for clarity
 0616. 🚀 perf: lazy-load components
 0627. 📚 docs: document token refresh logic
+0945. ♻️ chore: add GitHub actions badge
