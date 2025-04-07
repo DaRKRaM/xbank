@@ -1454,3 +1454,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0894. ✅ test: add integration test for /submit endpoint
 0629. 🔧 refactor: organize models into subfolders
+0041. 🐛 fix: fix broken CSS in mobile view
