@@ -2463,3 +2463,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0161. ✨ feat: create admin dashboard
 0502. 📚 docs: update README with setup steps
+0113. ✨ feat: add user authentication
