@@ -486,3 +486,4 @@
 0292. 📚 docs: clarify environment setup
 0082. 🔧 refactor: refactor quiz grading logic
 0545. 🎨 style: standardize quote style
+0600. 🐛 fix: prevent crash on empty input
