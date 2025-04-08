@@ -2468,3 +2468,4 @@
 0887. 📚 docs: add API usage examples
 0468. 📚 docs: update README with setup steps
 0850. ♻️ chore: rename env.example
+0942. ✅ test: increase coverage on auth module
