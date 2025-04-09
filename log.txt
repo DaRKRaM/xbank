@@ -1464,3 +1464,4 @@
 0230. ✨ feat: create admin dashboard
 0768. 🎨 style: remove trailing whitespace
 0082. 🔧 refactor: refactor quiz grading logic
+0397. 🐛 fix: handle 500 error in quiz API
