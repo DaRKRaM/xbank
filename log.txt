@@ -2471,3 +2471,4 @@
 0942. ✅ test: increase coverage on auth module
 0828. ♻️ chore: add GitHub actions badge
 0952. 🔧 refactor: split large controller into smaller functions
+0624. ✅ test: add unit test for quiz service
