@@ -494,3 +494,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0306. 🎨 style: apply consistent indentation
 0895. ✨ feat: support email verification
+0690. 🚀 perf: lazy-load components
