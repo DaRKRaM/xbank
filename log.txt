@@ -1465,3 +1465,4 @@
 0768. 🎨 style: remove trailing whitespace
 0082. 🔧 refactor: refactor quiz grading logic
 0397. 🐛 fix: handle 500 error in quiz API
+0395. 📚 docs: write FAQ section
