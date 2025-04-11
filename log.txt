@@ -1468,3 +1468,4 @@
 0395. 📚 docs: write FAQ section
 0180. ✨ feat: add export to CSV option
 0162. ♻️ chore: add GitHub actions badge
+0211. 🔧 refactor: remove redundant code blocks
