@@ -3507,3 +3507,4 @@
 0102. ✨ feat: support email verification
 0521. 🎨 style: standardize quote style
 0543. ✨ feat: support email verification
+0106. 🎨 style: reformat files with black
