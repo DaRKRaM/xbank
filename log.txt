@@ -2479,3 +2479,4 @@
 0356. 📚 docs: write FAQ section
 0939. 📚 docs: update README with setup steps
 0574. ✨ feat: enable dark mode toggle
+0973. 🔧 refactor: organize models into subfolders
