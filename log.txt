@@ -499,3 +499,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0224. 🐛 fix: fix broken CSS in mobile view
 0692. ✅ test: add integration test for /submit endpoint
+0408. ♻️ chore: add GitHub actions badge
