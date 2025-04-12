@@ -2482,3 +2482,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0519. 📚 docs: document token refresh logic
 0568. 🐛 fix: handle 500 error in quiz API
+0533. ♻️ chore: add GitHub actions badge
