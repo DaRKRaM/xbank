@@ -504,3 +504,4 @@
 0362. 📚 docs: add API usage examples
 0746. ♻️ chore: add GitHub actions badge
 0792. 🎨 style: standardize quote style
+0442. 🎨 style: standardize quote style
