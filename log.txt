@@ -1474,3 +1474,4 @@
 0468. 📚 docs: update README with setup steps
 0470. 🎨 style: remove trailing whitespace
 0369. 🎨 style: standardize quote style
+0610. 🚀 perf: lazy-load components
