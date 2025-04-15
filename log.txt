@@ -2484,3 +2484,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0533. ♻️ chore: add GitHub actions badge
 0064. 📚 docs: clarify environment setup
+0133. 🐛 fix: fix null pointer exception on login
