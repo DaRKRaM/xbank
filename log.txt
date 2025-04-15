@@ -2487,3 +2487,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0765. ♻️ chore: clean up unused files
 0908. ♻️ chore: bump dependencies
+0246. ✅ test: add integration test for /submit endpoint
