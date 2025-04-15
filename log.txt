@@ -510,3 +510,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0117. ✅ test: increase coverage on auth module
 0898. 🐛 fix: fix broken CSS in mobile view
+0590. 🐛 fix: fix null pointer exception on login
