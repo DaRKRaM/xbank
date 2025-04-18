@@ -520,3 +520,4 @@
 0681. ✨ feat: create admin dashboard
 0087. ✨ feat: add export to CSV option
 0964. ♻️ chore: clean up unused files
+0616. 🚀 perf: lazy-load components
