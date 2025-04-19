@@ -522,3 +522,4 @@
 0964. ♻️ chore: clean up unused files
 0616. 🚀 perf: lazy-load components
 0720. ✨ feat: add export to CSV option
+0582. ✨ feat: add export to CSV option
