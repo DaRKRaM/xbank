@@ -2501,3 +2501,4 @@
 0169. 📚 docs: add API usage examples
 0503. ♻️ chore: rename env.example
 0520. 🐛 fix: fix null pointer exception on login
+0494. 🎨 style: rename variables for clarity
