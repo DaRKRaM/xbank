@@ -1493,3 +1493,4 @@
 0250. 📚 docs: update README with setup steps
 0102. ✨ feat: support email verification
 0563. 📚 docs: clarify environment setup
+0039. ✅ test: add integration test for /submit endpoint
