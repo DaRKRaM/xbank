@@ -530,3 +530,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0585. 🚀 perf: lazy-load components
 0839. 🎨 style: apply consistent indentation
+0831. 📚 docs: clarify environment setup
