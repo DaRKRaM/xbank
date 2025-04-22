@@ -1496,3 +1496,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0538. 🐛 fix: fix broken CSS in mobile view
 0245. 🐛 fix: resolve issue with date parsing
+0127. 🐛 fix: fix null pointer exception on login
