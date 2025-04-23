@@ -1500,3 +1500,4 @@
 0925. ✨ feat: add export to CSV option
 0644. 🎨 style: apply consistent indentation
 0564. 📚 docs: clarify environment setup
+0876. ♻️ chore: rename env.example
