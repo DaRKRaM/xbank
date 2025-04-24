@@ -535,3 +535,4 @@
 0337. 📚 docs: document token refresh logic
 0631. ✨ feat: create admin dashboard
 0279. ✨ feat: support email verification
+0665. ♻️ chore: update .gitignore
