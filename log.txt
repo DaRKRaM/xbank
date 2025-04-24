@@ -156,3 +156,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0650. ✅ test: add unit test for quiz service
 0862. ♻️ chore: bump dependencies
+0671. 🐛 fix: fix null pointer exception on login
