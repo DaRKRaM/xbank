@@ -540,3 +540,4 @@
 0548. 📚 docs: write FAQ section
 0985. 📚 docs: document token refresh logic
 0530. 🔧 refactor: refactor quiz grading logic
+0157. ✅ test: mock database connection in test suite
