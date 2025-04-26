@@ -3553,3 +3553,4 @@
 0862. ♻️ chore: bump dependencies
 0936. 🔧 refactor: organize models into subfolders
 0218. 🔧 refactor: clean up auth middleware
+0152. ✨ feat: add user authentication
