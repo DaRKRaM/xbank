@@ -1507,3 +1507,4 @@
 0684. 🚀 perf: reduce image load time
 0663. 🚀 perf: reduce image load time
 0714. 📚 docs: improve code comments in utils
+0352. ✨ feat: add export to CSV option
