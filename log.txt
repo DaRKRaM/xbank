@@ -543,3 +543,4 @@
 0157. ✅ test: mock database connection in test suite
 0957. 🐛 fix: fix null pointer exception on login
 0642. 🚀 perf: optimize database query for quiz results
+0709. ♻️ chore: bump dependencies
