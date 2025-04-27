@@ -2510,3 +2510,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0374. 🎨 style: standardize quote style
 0379. ✨ feat: support email verification
+0132. ✅ test: add unit test for quiz service
