@@ -3566,3 +3566,4 @@
 0303. 🎨 style: rename variables for clarity
 0131. 📚 docs: write FAQ section
 0951. 🎨 style: rename variables for clarity
+0982. 🚀 perf: lazy-load components
