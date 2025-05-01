@@ -1522,3 +1522,4 @@
 0473. 📚 docs: write FAQ section
 0996. ✅ test: test user registration edge cases
 0549. ✨ feat: enable dark mode toggle
+0364. 🐛 fix: resolve issue with date parsing
