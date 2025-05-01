@@ -554,3 +554,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0591. ♻️ chore: clean up unused files
 0724. ✅ test: mock database connection in test suite
+0225. 🚀 perf: reduce image load time
