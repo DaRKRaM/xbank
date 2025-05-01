@@ -157,3 +157,4 @@
 0650. ✅ test: add unit test for quiz service
 0862. ♻️ chore: bump dependencies
 0671. 🐛 fix: fix null pointer exception on login
+0115. 🚀 perf: reduce image load time
