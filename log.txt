@@ -3575,3 +3575,4 @@
 0582. ✨ feat: add export to CSV option
 0313. 🎨 style: apply consistent indentation
 0351. ✨ feat: add export to CSV option
+0642. 🚀 perf: optimize database query for quiz results
