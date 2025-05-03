@@ -158,3 +158,4 @@
 0862. ♻️ chore: bump dependencies
 0671. 🐛 fix: fix null pointer exception on login
 0115. 🚀 perf: reduce image load time
+0977. 🔧 refactor: organize models into subfolders
