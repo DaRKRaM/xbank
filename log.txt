@@ -3584,3 +3584,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0688. 🚀 perf: reduce image load time
 0710. 🐛 fix: fix broken CSS in mobile view
+0701. 🔧 refactor: clean up auth middleware
