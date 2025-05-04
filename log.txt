@@ -561,3 +561,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0330. ✅ test: test user registration edge cases
 0713. 🐛 fix: handle 500 error in quiz API
+0557. 🔧 refactor: clean up auth middleware
