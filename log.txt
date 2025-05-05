@@ -3587,3 +3587,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0001. 🚀 perf: cache repeated calculations
 0510. 🎨 style: rename variables for clarity
+0546. 🐛 fix: fix null pointer exception on login
