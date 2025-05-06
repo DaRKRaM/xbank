@@ -3591,3 +3591,4 @@
 0292. 📚 docs: clarify environment setup
 0511. 🐛 fix: fix broken CSS in mobile view
 0187. ✨ feat: support email verification
+0520. 🐛 fix: fix null pointer exception on login
