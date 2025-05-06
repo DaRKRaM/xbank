@@ -569,3 +569,4 @@
 0249. ✅ test: increase coverage on auth module
 0406. ✨ feat: add export to CSV option
 0564. 📚 docs: clarify environment setup
+0436. ✅ test: add integration test for /submit endpoint
