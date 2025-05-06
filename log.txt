@@ -1537,3 +1537,4 @@
 0178. ✨ feat: support email verification
 0680. ♻️ chore: add GitHub actions badge
 0884. 📚 docs: clarify environment setup
+0949. 📚 docs: write FAQ section
