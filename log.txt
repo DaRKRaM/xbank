@@ -577,3 +577,4 @@
 0852. ✨ feat: enable dark mode toggle
 0975. 🎨 style: apply consistent indentation
 0774. 🔧 refactor: refactor quiz grading logic
+0475. 🔧 refactor: clean up auth middleware
