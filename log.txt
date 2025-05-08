@@ -2536,3 +2536,4 @@
 0991. ♻️ chore: clean up unused files
 0875. ✅ test: increase coverage on auth module
 0705. 🔧 refactor: refactor quiz grading logic
+0203. 🚀 perf: lazy-load components
