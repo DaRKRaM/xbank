@@ -2540,3 +2540,4 @@
 0121. ✨ feat: support email verification
 0558. ✨ feat: enable dark mode toggle
 0238. 🎨 style: apply consistent indentation
+0395. 📚 docs: write FAQ section
