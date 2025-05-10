@@ -582,3 +582,4 @@
 0689. 🎨 style: reformat files with black
 0918. ✨ feat: enable dark mode toggle
 0532. 🔧 refactor: split large controller into smaller functions
+0158. 📚 docs: clarify environment setup
