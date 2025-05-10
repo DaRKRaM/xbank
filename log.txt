@@ -2542,3 +2542,4 @@
 0238. 🎨 style: apply consistent indentation
 0395. 📚 docs: write FAQ section
 0152. ✨ feat: add user authentication
+0258. 🐛 fix: prevent crash on empty input
