@@ -1543,3 +1543,4 @@
 0716. ✨ feat: implement quiz timer feature
 0678. ✨ feat: add user authentication
 0582. ✨ feat: add export to CSV option
+0765. ♻️ chore: clean up unused files
