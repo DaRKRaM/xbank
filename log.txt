@@ -2544,3 +2544,4 @@
 0152. ✨ feat: add user authentication
 0258. 🐛 fix: prevent crash on empty input
 0171. 🐛 fix: fix broken CSS in mobile view
+0613. 🐛 fix: prevent crash on empty input
