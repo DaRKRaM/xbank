@@ -585,3 +585,4 @@
 0158. 📚 docs: clarify environment setup
 0558. ✨ feat: enable dark mode toggle
 0407. 🚀 perf: cache repeated calculations
+0919. 🚀 perf: optimize database query for quiz results
