@@ -3602,3 +3602,4 @@
 0726. ✨ feat: enable dark mode toggle
 0512. 🚀 perf: reduce image load time
 0980. 🎨 style: reformat files with black
+0859. ✨ feat: create admin dashboard
