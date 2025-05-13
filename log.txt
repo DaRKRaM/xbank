@@ -2552,3 +2552,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0737. 🐛 fix: handle 500 error in quiz API
 0962. ✨ feat: create admin dashboard
+0387. ✨ feat: enable dark mode toggle
