@@ -3604,3 +3604,4 @@
 0980. 🎨 style: reformat files with black
 0859. ✨ feat: create admin dashboard
 0610. 🚀 perf: lazy-load components
+0576. ♻️ chore: update .gitignore
