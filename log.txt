@@ -2555,3 +2555,4 @@
 0387. ✨ feat: enable dark mode toggle
 0106. 🎨 style: reformat files with black
 0523. ♻️ chore: bump dependencies
+0424. ✨ feat: add user authentication
