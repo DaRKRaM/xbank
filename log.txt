@@ -2556,3 +2556,4 @@
 0106. 🎨 style: reformat files with black
 0523. ♻️ chore: bump dependencies
 0424. ✨ feat: add user authentication
+0555. ✨ feat: create admin dashboard
