@@ -159,3 +159,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0115. 🚀 perf: reduce image load time
 0977. 🔧 refactor: organize models into subfolders
+0587. 🔧 refactor: remove redundant code blocks
