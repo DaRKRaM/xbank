@@ -1548,3 +1548,4 @@
 0886. ♻️ chore: clean up unused files
 0090. ✅ test: increase coverage on auth module
 0205. 📚 docs: update README with setup steps
+0148. 🔧 refactor: organize models into subfolders
