@@ -588,3 +588,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0049. 🐛 fix: handle 500 error in quiz API
 0739. 🎨 style: remove trailing whitespace
+0560. 🎨 style: rename variables for clarity
