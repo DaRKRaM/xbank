@@ -2554,3 +2554,4 @@
 0962. ✨ feat: create admin dashboard
 0387. ✨ feat: enable dark mode toggle
 0106. 🎨 style: reformat files with black
+0523. ♻️ chore: bump dependencies
