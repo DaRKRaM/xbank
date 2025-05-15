@@ -1551,3 +1551,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0617. ✨ feat: support email verification
 0144. ✅ test: increase coverage on auth module
+0036. 🔧 refactor: clean up auth middleware
