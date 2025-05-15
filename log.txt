@@ -591,3 +591,4 @@
 0560. 🎨 style: rename variables for clarity
 0514. 🐛 fix: fix broken CSS in mobile view
 0611. ✅ test: test user registration edge cases
+0473. 📚 docs: write FAQ section
