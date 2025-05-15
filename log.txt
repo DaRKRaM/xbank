@@ -593,3 +593,4 @@
 0611. ✅ test: test user registration edge cases
 0473. 📚 docs: write FAQ section
 0575. ✅ test: add unit test for quiz service
+0388. 🎨 style: reformat files with black
