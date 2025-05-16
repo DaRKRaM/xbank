@@ -594,3 +594,4 @@
 0473. 📚 docs: write FAQ section
 0575. ✅ test: add unit test for quiz service
 0388. 🎨 style: reformat files with black
+0793. 📚 docs: clarify environment setup
