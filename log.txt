@@ -3611,3 +3611,4 @@
 0971. 🎨 style: standardize quote style
 0554. 📚 docs: improve code comments in utils
 0063. 🐛 fix: handle 500 error in quiz API
+0747. 🔧 refactor: clean up auth middleware
