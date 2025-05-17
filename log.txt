@@ -597,3 +597,4 @@
 0793. 📚 docs: clarify environment setup
 0996. ✅ test: test user registration edge cases
 0326. 🚀 perf: cache repeated calculations
+0198. 📚 docs: clarify environment setup
