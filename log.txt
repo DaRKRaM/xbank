@@ -599,3 +599,4 @@
 0326. 🚀 perf: cache repeated calculations
 0198. 📚 docs: clarify environment setup
 0010. ✨ feat: add user authentication
+0765. ♻️ chore: clean up unused files
