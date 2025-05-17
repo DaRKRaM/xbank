@@ -3619,3 +3619,4 @@
 0207. 🐛 fix: prevent crash on empty input
 0533. ♻️ chore: add GitHub actions badge
 0443. 🎨 style: standardize quote style
+0788. 📚 docs: add API usage examples
