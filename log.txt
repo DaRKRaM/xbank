@@ -2563,3 +2563,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0216. 🎨 style: rename variables for clarity
 0198. 📚 docs: clarify environment setup
+0308. 🚀 perf: reduce image load time
