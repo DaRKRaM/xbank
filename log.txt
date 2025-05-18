@@ -1558,3 +1558,4 @@
 0119. 📚 docs: improve code comments in utils
 0535. 📚 docs: write FAQ section
 0096. 🐛 fix: prevent crash on empty input
+0902. ✨ feat: enable dark mode toggle
