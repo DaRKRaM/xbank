@@ -601,3 +601,4 @@
 0010. ✨ feat: add user authentication
 0765. ♻️ chore: clean up unused files
 0294. 🐛 fix: prevent crash on empty input
+0784. ♻️ chore: clean up unused files
