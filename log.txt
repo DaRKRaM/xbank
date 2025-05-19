@@ -3622,3 +3622,4 @@
 0788. 📚 docs: add API usage examples
 0843. 📚 docs: document token refresh logic
 0429. ✨ feat: add user authentication
+0374. 🎨 style: standardize quote style
