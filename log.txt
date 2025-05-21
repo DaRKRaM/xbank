@@ -613,3 +613,4 @@
 0463. 🚀 perf: reduce image load time
 0033. 🎨 style: apply consistent indentation
 0501. ✨ feat: add export to CSV option
+0076. 🎨 style: reformat files with black
