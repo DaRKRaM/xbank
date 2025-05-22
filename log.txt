@@ -1569,3 +1569,4 @@
 0333. 🚀 perf: cache repeated calculations
 0815. 🔧 refactor: split large controller into smaller functions
 0130. 🔧 refactor: split large controller into smaller functions
+0599. ✅ test: test user registration edge cases
