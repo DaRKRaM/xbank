@@ -1573,3 +1573,4 @@
 0051. ✨ feat: enable dark mode toggle
 0536. ✨ feat: add user authentication
 0970. ♻️ chore: update .gitignore
+0028. 🎨 style: standardize quote style
