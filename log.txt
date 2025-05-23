@@ -617,3 +617,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0081. 🐛 fix: fix null pointer exception on login
 0179. 🔧 refactor: split large controller into smaller functions
+0091. ✨ feat: add user authentication
