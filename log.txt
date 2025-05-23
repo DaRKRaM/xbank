@@ -1577,3 +1577,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0093. ✅ test: add unit test for quiz service
 0430. 🐛 fix: fix null pointer exception on login
+0077. ♻️ chore: rename env.example
