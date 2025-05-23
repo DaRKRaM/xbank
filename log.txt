@@ -3632,3 +3632,4 @@
 0406. ✨ feat: add export to CSV option
 0487. 🎨 style: reformat files with black
 0685. ✅ test: test user registration edge cases
+0608. 🔧 refactor: remove redundant code blocks
