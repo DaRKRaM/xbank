@@ -619,3 +619,4 @@
 0179. 🔧 refactor: split large controller into smaller functions
 0091. ✨ feat: add user authentication
 0472. 🐛 fix: fix null pointer exception on login
+0293. ✅ test: add integration test for /submit endpoint
