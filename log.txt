@@ -2577,3 +2577,4 @@
 0956. 📚 docs: clarify environment setup
 0085. ✨ feat: support email verification
 0301. 🎨 style: apply consistent indentation
+0482. ✨ feat: add export to CSV option
