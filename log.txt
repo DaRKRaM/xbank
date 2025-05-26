@@ -624,3 +624,4 @@
 0250. 📚 docs: update README with setup steps
 0843. 📚 docs: document token refresh logic
 0651. ✨ feat: enable dark mode toggle
+0603. 🐛 fix: fix broken CSS in mobile view
