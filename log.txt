@@ -629,3 +629,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0061. ✨ feat: create admin dashboard
 0833. ✨ feat: add user authentication
+0968. 🎨 style: standardize quote style
