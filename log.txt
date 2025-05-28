@@ -630,3 +630,4 @@
 0061. ✨ feat: create admin dashboard
 0833. ✨ feat: add user authentication
 0968. 🎨 style: standardize quote style
+0222. 🐛 fix: handle 500 error in quiz API
