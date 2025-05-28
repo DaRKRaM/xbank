@@ -3645,3 +3645,4 @@
 0336. ✨ feat: add export to CSV option
 0002. 🚀 perf: cache repeated calculations
 0450. 🐛 fix: fix broken CSS in mobile view
+0809. ♻️ chore: rename env.example
