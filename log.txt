@@ -2586,3 +2586,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0906. 📚 docs: add API usage examples
 0959. 🐛 fix: fix null pointer exception on login
+0764. ✨ feat: add user authentication
