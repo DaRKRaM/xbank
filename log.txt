@@ -1587,3 +1587,4 @@
 0161. ✨ feat: create admin dashboard
 0227. ✅ test: test user registration edge cases
 0955. 🔧 refactor: remove redundant code blocks
+0181. ♻️ chore: add GitHub actions badge
