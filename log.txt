@@ -632,3 +632,4 @@
 0968. 🎨 style: standardize quote style
 0222. 🐛 fix: handle 500 error in quiz API
 0488. ♻️ chore: add GitHub actions badge
+0320. 📚 docs: update README with setup steps
