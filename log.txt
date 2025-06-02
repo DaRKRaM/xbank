@@ -638,3 +638,4 @@
 0947. 📚 docs: write FAQ section
 0706. ✨ feat: support email verification
 0902. ✨ feat: enable dark mode toggle
+0601. ✨ feat: implement quiz timer feature
