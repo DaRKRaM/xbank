@@ -1597,3 +1597,4 @@
 0646. ✅ test: test user registration edge cases
 0720. ✨ feat: add export to CSV option
 0451. ✨ feat: support email verification
+0593. 🐛 fix: correct typo in registration form
