@@ -640,3 +640,4 @@
 0902. ✨ feat: enable dark mode toggle
 0601. ✨ feat: implement quiz timer feature
 0741. 🎨 style: apply consistent indentation
+0813. 🔧 refactor: organize models into subfolders
