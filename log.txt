@@ -2600,3 +2600,4 @@
 0843. 📚 docs: document token refresh logic
 0248. 🐛 fix: handle 500 error in quiz API
 0691. 🎨 style: rename variables for clarity
+0710. 🐛 fix: fix broken CSS in mobile view
