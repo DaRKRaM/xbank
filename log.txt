@@ -1599,3 +1599,4 @@
 0451. ✨ feat: support email verification
 0593. 🐛 fix: correct typo in registration form
 0622. 🎨 style: apply consistent indentation
+0821. ✅ test: add integration test for /submit endpoint
