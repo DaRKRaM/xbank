@@ -3663,3 +3663,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0567. 📚 docs: add API usage examples
 0750. 🎨 style: apply consistent indentation
+0157. ✅ test: mock database connection in test suite
