@@ -3659,3 +3659,4 @@
 0524. ♻️ chore: rename env.example
 0975. 🎨 style: apply consistent indentation
 0345. 📚 docs: document token refresh logic
+0589. 🐛 fix: fix broken CSS in mobile view
