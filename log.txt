@@ -1604,3 +1604,4 @@
 0009. ✨ feat: enable dark mode toggle
 0861. ♻️ chore: clean up unused files
 0971. 🎨 style: standardize quote style
+0477. 🐛 fix: fix broken CSS in mobile view
