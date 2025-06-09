@@ -1616,3 +1616,4 @@
 0606. 📚 docs: improve code comments in utils
 0110. 🐛 fix: prevent crash on empty input
 0294. 🐛 fix: prevent crash on empty input
+0959. 🐛 fix: fix null pointer exception on login
