@@ -1621,3 +1621,4 @@
 0239. 🎨 style: standardize quote style
 0424. ✨ feat: add user authentication
 0167. 🚀 perf: reduce image load time
+0503. ♻️ chore: rename env.example
