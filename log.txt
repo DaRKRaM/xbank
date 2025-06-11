@@ -2622,3 +2622,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0562. 🔧 refactor: clean up auth middleware
 0566. 📚 docs: write FAQ section
+0968. 🎨 style: standardize quote style
