@@ -2620,3 +2620,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0346. ✅ test: mock database connection in test suite
 0988. 🐛 fix: fix broken CSS in mobile view
+0562. 🔧 refactor: clean up auth middleware
