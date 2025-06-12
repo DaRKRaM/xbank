@@ -660,3 +660,4 @@
 0059. ♻️ chore: bump dependencies
 0816. 🔧 refactor: organize models into subfolders
 0687. 🎨 style: remove trailing whitespace
+0278. 🔧 refactor: clean up auth middleware
