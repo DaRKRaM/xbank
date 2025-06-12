@@ -1624,3 +1624,4 @@
 0503. ♻️ chore: rename env.example
 0317. ✅ test: test user registration edge cases
 0961. 📚 docs: add API usage examples
+0331. 🐛 fix: fix broken CSS in mobile view
