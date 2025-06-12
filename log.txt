@@ -1625,3 +1625,4 @@
 0317. ✅ test: test user registration edge cases
 0961. 📚 docs: add API usage examples
 0331. 🐛 fix: fix broken CSS in mobile view
+0937. 🐛 fix: handle 500 error in quiz API
