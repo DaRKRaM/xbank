@@ -2628,3 +2628,4 @@
 0980. 🎨 style: reformat files with black
 0358. 🚀 perf: reduce image load time
 0149. ✨ feat: add export to CSV option
+0410. 🎨 style: reformat files with black
