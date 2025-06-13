@@ -1632,3 +1632,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0022. 📚 docs: document token refresh logic
 0362. 📚 docs: add API usage examples
+0713. 🐛 fix: handle 500 error in quiz API
