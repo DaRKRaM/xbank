@@ -1636,3 +1636,4 @@
 0320. 📚 docs: update README with setup steps
 0418. ✅ test: mock database connection in test suite
 0728. 🔧 refactor: split large controller into smaller functions
+0347. ♻️ chore: update .gitignore
