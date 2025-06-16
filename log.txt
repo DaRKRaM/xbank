@@ -3688,3 +3688,4 @@
 0085. ✨ feat: support email verification
 0720. ✨ feat: add export to CSV option
 0863. 🐛 fix: correct typo in registration form
+0622. 🎨 style: apply consistent indentation
