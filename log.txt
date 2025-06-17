@@ -3692,3 +3692,4 @@
 0739. 🎨 style: remove trailing whitespace
 0729. 🔧 refactor: refactor quiz grading logic
 0605. ✨ feat: support email verification
+0037. 🐛 fix: correct typo in registration form
