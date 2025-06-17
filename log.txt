@@ -3691,3 +3691,4 @@
 0622. 🎨 style: apply consistent indentation
 0739. 🎨 style: remove trailing whitespace
 0729. 🔧 refactor: refactor quiz grading logic
+0605. ✨ feat: support email verification
