@@ -1643,3 +1643,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0624. ✅ test: add unit test for quiz service
 0708. ✅ test: add integration test for /submit endpoint
+0791. 🔧 refactor: clean up auth middleware
