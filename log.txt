@@ -2645,3 +2645,4 @@
 0302. ✨ feat: implement quiz timer feature
 0551. 📚 docs: write FAQ section
 0675. 🔧 refactor: organize models into subfolders
+0281. ✨ feat: support email verification
