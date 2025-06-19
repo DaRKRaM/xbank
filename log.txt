@@ -679,3 +679,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0931. 🚀 perf: reduce image load time
 0657. 🎨 style: standardize quote style
+0646. ✅ test: test user registration edge cases
