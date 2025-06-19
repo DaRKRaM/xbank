@@ -1651,3 +1651,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0792. 🎨 style: standardize quote style
 0639. 🐛 fix: correct typo in registration form
+0677. 📚 docs: add API usage examples
