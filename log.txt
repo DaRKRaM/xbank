@@ -1649,3 +1649,4 @@
 0044. ✅ test: add unit test for quiz service
 0154. 🐛 fix: prevent crash on empty input
 0478. 🐛 fix: resolve issue with date parsing
+0792. 🎨 style: standardize quote style
