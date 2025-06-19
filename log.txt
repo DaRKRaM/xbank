@@ -1650,3 +1650,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0478. 🐛 fix: resolve issue with date parsing
 0792. 🎨 style: standardize quote style
+0639. 🐛 fix: correct typo in registration form
