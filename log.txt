@@ -3696,3 +3696,4 @@
 0681. ✨ feat: create admin dashboard
 0574. ✨ feat: enable dark mode toggle
 0828. ♻️ chore: add GitHub actions badge
+0772. 🐛 fix: fix null pointer exception on login
