@@ -1652,3 +1652,4 @@
 0792. 🎨 style: standardize quote style
 0639. 🐛 fix: correct typo in registration form
 0677. 📚 docs: add API usage examples
+0973. 🔧 refactor: organize models into subfolders
