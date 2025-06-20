@@ -2648,3 +2648,4 @@
 0281. ✨ feat: support email verification
 0089. 🔧 refactor: remove redundant code blocks
 0694. 🎨 style: rename variables for clarity
+0388. 🎨 style: reformat files with black
