@@ -2656,3 +2656,4 @@
 0823. ✨ feat: add user authentication
 0540. ♻️ chore: add GitHub actions badge
 0425. 🔧 refactor: refactor quiz grading logic
+0592. 📚 docs: add API usage examples
