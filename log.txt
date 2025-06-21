@@ -686,3 +686,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0163. ✨ feat: implement quiz timer feature
 0925. ✨ feat: add export to CSV option
+0610. 🚀 perf: lazy-load components
