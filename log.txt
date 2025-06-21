@@ -688,3 +688,4 @@
 0925. ✨ feat: add export to CSV option
 0610. 🚀 perf: lazy-load components
 0023. 📚 docs: clarify environment setup
+0944. ✨ feat: add user authentication
