@@ -3700,3 +3700,4 @@
 0842. 🎨 style: remove trailing whitespace
 0597. 🚀 perf: cache repeated calculations
 0735. ♻️ chore: add GitHub actions badge
+0317. ✅ test: test user registration edge cases
