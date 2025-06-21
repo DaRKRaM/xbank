@@ -1658,3 +1658,4 @@
 0742. 📚 docs: clarify environment setup
 0187. ✨ feat: support email verification
 0050. ✨ feat: enable dark mode toggle
+0060. ♻️ chore: clean up unused files
