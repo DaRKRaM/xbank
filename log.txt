@@ -3699,3 +3699,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0842. 🎨 style: remove trailing whitespace
 0597. 🚀 perf: cache repeated calculations
+0735. ♻️ chore: add GitHub actions badge
