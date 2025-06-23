@@ -2660,3 +2660,4 @@
 0599. ✅ test: test user registration edge cases
 0577. ✨ feat: implement quiz timer feature
 0353. ♻️ chore: rename env.example
+0065. ✅ test: add integration test for /submit endpoint
