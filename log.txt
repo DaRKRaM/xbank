@@ -694,3 +694,4 @@
 0961. 📚 docs: add API usage examples
 0116. ✨ feat: support email verification
 0217. 🚀 perf: reduce image load time
+0671. 🐛 fix: fix null pointer exception on login
