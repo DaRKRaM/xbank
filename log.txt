@@ -692,3 +692,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0965. 🎨 style: reformat files with black
 0961. 📚 docs: add API usage examples
+0116. ✨ feat: support email verification
