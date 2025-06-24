@@ -2664,3 +2664,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0790. 📚 docs: write FAQ section
 0373. 📚 docs: document token refresh logic
+0736. 🐛 fix: fix null pointer exception on login
