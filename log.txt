@@ -3711,3 +3711,4 @@
 0535. 📚 docs: write FAQ section
 0786. ✨ feat: enable dark mode toggle
 0915. 🚀 perf: cache repeated calculations
+0662. ♻️ chore: clean up unused files
