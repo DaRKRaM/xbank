@@ -1666,3 +1666,4 @@
 0634. 🎨 style: reformat files with black
 0389. 📚 docs: improve code comments in utils
 0529. 📚 docs: write FAQ section
+0946. ✅ test: add unit test for quiz service
