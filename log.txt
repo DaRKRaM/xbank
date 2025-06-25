@@ -697,3 +697,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0914. ✅ test: test user registration edge cases
 0809. ♻️ chore: rename env.example
+0115. 🚀 perf: reduce image load time
