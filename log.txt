@@ -700,3 +700,4 @@
 0115. 🚀 perf: reduce image load time
 0170. ✅ test: increase coverage on auth module
 0719. 🎨 style: apply consistent indentation
+0641. 📚 docs: write FAQ section
