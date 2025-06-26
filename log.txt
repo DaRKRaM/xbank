@@ -701,3 +701,4 @@
 0170. ✅ test: increase coverage on auth module
 0719. 🎨 style: apply consistent indentation
 0641. 📚 docs: write FAQ section
+0607. 🐛 fix: prevent crash on empty input
