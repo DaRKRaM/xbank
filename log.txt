@@ -2666,3 +2666,4 @@
 0373. 📚 docs: document token refresh logic
 0736. 🐛 fix: fix null pointer exception on login
 0841. 🚀 perf: optimize database query for quiz results
+0690. 🚀 perf: lazy-load components
