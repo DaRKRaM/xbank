@@ -703,3 +703,4 @@
 0641. 📚 docs: write FAQ section
 0607. 🐛 fix: prevent crash on empty input
 0511. 🐛 fix: fix broken CSS in mobile view
+0262. 🎨 style: remove trailing whitespace
