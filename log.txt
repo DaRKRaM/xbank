@@ -1673,3 +1673,4 @@
 0601. ✨ feat: implement quiz timer feature
 0849. 🐛 fix: correct typo in registration form
 0249. ✅ test: increase coverage on auth module
+0284. ✨ feat: implement quiz timer feature
