@@ -704,3 +704,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0511. 🐛 fix: fix broken CSS in mobile view
 0262. 🎨 style: remove trailing whitespace
+0403. ✅ test: mock database connection in test suite
