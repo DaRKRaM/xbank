@@ -3717,3 +3717,4 @@
 0761. ✅ test: add unit test for quiz service
 0495. 🔧 refactor: remove redundant code blocks
 0547. 📚 docs: write FAQ section
+0677. 📚 docs: add API usage examples
