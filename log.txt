@@ -2677,3 +2677,4 @@
 0576. ♻️ chore: update .gitignore
 0606. 📚 docs: improve code comments in utils
 0117. ✅ test: increase coverage on auth module
+0317. ✅ test: test user registration edge cases
