@@ -708,3 +708,4 @@
 0372. ✨ feat: add user authentication
 0628. ♻️ chore: add GitHub actions badge
 0209. ✨ feat: implement quiz timer feature
+0988. 🐛 fix: fix broken CSS in mobile view
