@@ -2679,3 +2679,4 @@
 0117. ✅ test: increase coverage on auth module
 0317. ✅ test: test user registration edge cases
 0155. ✨ feat: create admin dashboard
+0804. ♻️ chore: add GitHub actions badge
