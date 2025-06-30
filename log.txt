@@ -710,3 +710,4 @@
 0209. ✨ feat: implement quiz timer feature
 0988. 🐛 fix: fix broken CSS in mobile view
 0444. ✅ test: add unit test for quiz service
+0295. 🎨 style: remove trailing whitespace
