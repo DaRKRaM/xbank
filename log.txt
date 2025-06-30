@@ -713,3 +713,4 @@
 0295. 🎨 style: remove trailing whitespace
 0047. 🎨 style: rename variables for clarity
 0583. ✅ test: increase coverage on auth module
+0462. ♻️ chore: update .gitignore
