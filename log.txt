@@ -714,3 +714,4 @@
 0047. 🎨 style: rename variables for clarity
 0583. ✅ test: increase coverage on auth module
 0462. ♻️ chore: update .gitignore
+0186. ✅ test: test user registration edge cases
