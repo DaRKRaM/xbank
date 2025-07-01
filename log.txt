@@ -3727,3 +3727,4 @@
 0697. ♻️ chore: bump dependencies
 0562. 🔧 refactor: clean up auth middleware
 0921. 🐛 fix: correct typo in registration form
+0279. ✨ feat: support email verification
