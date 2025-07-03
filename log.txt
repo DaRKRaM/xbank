@@ -2691,3 +2691,4 @@
 0434. 📚 docs: document token refresh logic
 0800. 🚀 perf: optimize database query for quiz results
 0330. ✅ test: test user registration edge cases
+0136. 🚀 perf: lazy-load components
