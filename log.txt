@@ -2693,3 +2693,4 @@
 0330. ✅ test: test user registration edge cases
 0136. 🚀 perf: lazy-load components
 0743. 🎨 style: apply consistent indentation
+0900. 🐛 fix: handle 500 error in quiz API
