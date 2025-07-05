@@ -727,3 +727,4 @@
 0700. 🎨 style: rename variables for clarity
 0132. ✅ test: add unit test for quiz service
 0271. ✅ test: add unit test for quiz service
+0365. 🚀 perf: reduce image load time
