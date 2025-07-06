@@ -731,3 +731,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0756. ✨ feat: support email verification
 0240. 🔧 refactor: remove redundant code blocks
+0549. ✨ feat: enable dark mode toggle
