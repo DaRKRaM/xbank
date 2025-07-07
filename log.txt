@@ -1696,3 +1696,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0129. 🔧 refactor: organize models into subfolders
 0115. 🚀 perf: reduce image load time
+0811. 🎨 style: reformat files with black
