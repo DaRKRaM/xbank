@@ -2702,3 +2702,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0545. 🎨 style: standardize quote style
 0626. 🎨 style: standardize quote style
+0583. ✅ test: increase coverage on auth module
