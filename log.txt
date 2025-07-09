@@ -1699,3 +1699,4 @@
 0811. 🎨 style: reformat files with black
 0667. ✨ feat: add export to CSV option
 0737. 🐛 fix: handle 500 error in quiz API
+0379. ✨ feat: support email verification
