@@ -737,3 +737,4 @@
 0498. ✅ test: mock database connection in test suite
 0195. 📚 docs: clarify environment setup
 0855. 🎨 style: reformat files with black
+0088. 📚 docs: add API usage examples
