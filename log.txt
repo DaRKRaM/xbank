@@ -1701,3 +1701,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0379. ✨ feat: support email verification
 0412. ✅ test: increase coverage on auth module
+0071. 🔧 refactor: refactor quiz grading logic
