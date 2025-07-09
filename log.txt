@@ -168,3 +168,4 @@
 0080. ✨ feat: support email verification
 0750. 🎨 style: apply consistent indentation
 0941. 🚀 perf: cache repeated calculations
+0688. 🚀 perf: reduce image load time
