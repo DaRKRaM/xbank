@@ -3747,3 +3747,4 @@
 0912. 📚 docs: document token refresh logic
 0282. 🔧 refactor: remove redundant code blocks
 0835. 🐛 fix: prevent crash on empty input
+0090. ✅ test: increase coverage on auth module
