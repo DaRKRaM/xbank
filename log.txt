@@ -1703,3 +1703,4 @@
 0412. ✅ test: increase coverage on auth module
 0071. 🔧 refactor: refactor quiz grading logic
 0867. 🔧 refactor: refactor quiz grading logic
+0108. 🎨 style: remove trailing whitespace
