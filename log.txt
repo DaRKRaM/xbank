@@ -1706,3 +1706,4 @@
 0108. 🎨 style: remove trailing whitespace
 0094. 📚 docs: document token refresh logic
 0485. 📚 docs: update README with setup steps
+0733. 🐛 fix: fix null pointer exception on login
