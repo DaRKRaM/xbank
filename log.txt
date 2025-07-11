@@ -742,3 +742,4 @@
 0471. ✨ feat: support email verification
 0647. 🐛 fix: prevent crash on empty input
 0888. 🚀 perf: lazy-load components
+0100. ♻️ chore: update .gitignore
