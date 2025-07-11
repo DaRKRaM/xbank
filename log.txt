@@ -2710,3 +2710,4 @@
 0554. 📚 docs: improve code comments in utils
 0987. ✨ feat: create admin dashboard
 0689. 🎨 style: reformat files with black
+0296. 🔧 refactor: organize models into subfolders
