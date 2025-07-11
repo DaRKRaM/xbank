@@ -744,3 +744,4 @@
 0888. 🚀 perf: lazy-load components
 0100. ♻️ chore: update .gitignore
 0068. 🐛 fix: fix null pointer exception on login
+0464. 🎨 style: remove trailing whitespace
