@@ -2712,3 +2712,4 @@
 0689. 🎨 style: reformat files with black
 0296. 🔧 refactor: organize models into subfolders
 0853. 🔧 refactor: refactor quiz grading logic
+0621. 🔧 refactor: clean up auth middleware
