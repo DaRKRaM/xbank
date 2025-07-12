@@ -748,3 +748,4 @@
 0834. ✅ test: increase coverage on auth module
 0555. ✨ feat: create admin dashboard
 0571. 🔧 refactor: clean up auth middleware
+0785. ✨ feat: enable dark mode toggle
