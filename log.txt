@@ -1714,3 +1714,4 @@
 0254. 🚀 perf: reduce image load time
 0575. ✅ test: add unit test for quiz service
 0892. ✅ test: add unit test for quiz service
+0612. ✅ test: test user registration edge cases
