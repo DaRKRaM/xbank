@@ -750,3 +750,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0785. ✨ feat: enable dark mode toggle
 0805. ♻️ chore: add GitHub actions badge
+0412. ✅ test: increase coverage on auth module
