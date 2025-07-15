@@ -2721,3 +2721,4 @@
 0614. 🚀 perf: reduce image load time
 0864. 🐛 fix: correct typo in registration form
 0400. 🐛 fix: fix null pointer exception on login
+0283. ♻️ chore: add GitHub actions badge
