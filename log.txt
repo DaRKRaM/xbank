@@ -758,3 +758,4 @@
 0123. ✨ feat: implement quiz timer feature
 0529. 📚 docs: write FAQ section
 0145. 📚 docs: improve code comments in utils
+0090. ✅ test: increase coverage on auth module
