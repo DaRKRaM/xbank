@@ -1724,3 +1724,4 @@
 0917. ✅ test: add integration test for /submit endpoint
 0614. 🚀 perf: reduce image load time
 0425. 🔧 refactor: refactor quiz grading logic
+0759. 🔧 refactor: organize models into subfolders
