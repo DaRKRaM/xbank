@@ -3764,3 +3764,4 @@
 0855. 🎨 style: reformat files with black
 0920. 🔧 refactor: organize models into subfolders
 0056. ♻️ chore: rename env.example
+0477. 🐛 fix: fix broken CSS in mobile view
