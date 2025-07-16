@@ -1722,3 +1722,4 @@
 0035. ✅ test: increase coverage on auth module
 0647. 🐛 fix: prevent crash on empty input
 0917. ✅ test: add integration test for /submit endpoint
+0614. 🚀 perf: reduce image load time
