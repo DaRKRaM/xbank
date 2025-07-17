@@ -1728,3 +1728,4 @@
 0637. 🎨 style: apply consistent indentation
 0887. 📚 docs: add API usage examples
 0346. ✅ test: mock database connection in test suite
+0073. 🔧 refactor: split large controller into smaller functions
