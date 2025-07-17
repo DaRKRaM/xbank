@@ -3770,3 +3770,4 @@
 0438. ♻️ chore: bump dependencies
 0013. ✅ test: increase coverage on auth module
 0978. 🐛 fix: prevent crash on empty input
+0758. 🚀 perf: optimize database query for quiz results
