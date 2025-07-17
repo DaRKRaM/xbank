@@ -3769,3 +3769,4 @@
 0372. ✨ feat: add user authentication
 0438. ♻️ chore: bump dependencies
 0013. ✅ test: increase coverage on auth module
+0978. 🐛 fix: prevent crash on empty input
