@@ -2723,3 +2723,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0283. ♻️ chore: add GitHub actions badge
 0844. 📚 docs: update README with setup steps
+0807. 🔧 refactor: remove redundant code blocks
