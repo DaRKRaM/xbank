@@ -3776,3 +3776,4 @@
 0180. ✨ feat: add export to CSV option
 0583. ✅ test: increase coverage on auth module
 0934. ✨ feat: support email verification
+0621. 🔧 refactor: clean up auth middleware
