@@ -3774,3 +3774,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0993. ✨ feat: implement quiz timer feature
 0180. ✨ feat: add export to CSV option
+0583. ✅ test: increase coverage on auth module
