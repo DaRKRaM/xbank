@@ -3775,3 +3775,4 @@
 0993. ✨ feat: implement quiz timer feature
 0180. ✨ feat: add export to CSV option
 0583. ✅ test: increase coverage on auth module
+0934. ✨ feat: support email verification
