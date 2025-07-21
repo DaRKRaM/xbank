@@ -2744,3 +2744,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0352. ✨ feat: add export to CSV option
 0929. ✨ feat: support email verification
+0285. 🐛 fix: resolve issue with date parsing
