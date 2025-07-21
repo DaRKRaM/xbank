@@ -2742,3 +2742,4 @@
 0185. 📚 docs: write FAQ section
 0229. 🚀 perf: optimize database query for quiz results
 0898. 🐛 fix: fix broken CSS in mobile view
+0352. ✨ feat: add export to CSV option
