@@ -2745,3 +2745,4 @@
 0352. ✨ feat: add export to CSV option
 0929. ✨ feat: support email verification
 0285. 🐛 fix: resolve issue with date parsing
+0897. 🐛 fix: prevent crash on empty input
