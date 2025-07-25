@@ -783,3 +783,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0970. ♻️ chore: update .gitignore
 0867. 🔧 refactor: refactor quiz grading logic
+0037. 🐛 fix: correct typo in registration form
