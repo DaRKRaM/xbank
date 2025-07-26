@@ -1754,3 +1754,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0021. ✨ feat: support email verification
 0301. 🎨 style: apply consistent indentation
+0440. 📚 docs: update README with setup steps
