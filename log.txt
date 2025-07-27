@@ -1757,3 +1757,4 @@
 0440. 📚 docs: update README with setup steps
 0511. 🐛 fix: fix broken CSS in mobile view
 0434. 📚 docs: document token refresh logic
+0626. 🎨 style: standardize quote style
