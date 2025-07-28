@@ -792,3 +792,4 @@
 0820. 📚 docs: add API usage examples
 0349. ✅ test: increase coverage on auth module
 0562. 🔧 refactor: clean up auth middleware
+0384. 📚 docs: clarify environment setup
