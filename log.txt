@@ -1769,3 +1769,4 @@
 0455. ♻️ chore: clean up unused files
 0097. 🐛 fix: handle 500 error in quiz API
 0377. ✨ feat: add user authentication
+0219. ✅ test: increase coverage on auth module
