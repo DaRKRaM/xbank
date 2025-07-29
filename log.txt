@@ -1770,3 +1770,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0377. ✨ feat: add user authentication
 0219. ✅ test: increase coverage on auth module
+0722. 📚 docs: add API usage examples
