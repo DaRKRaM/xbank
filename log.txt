@@ -1774,3 +1774,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0399. ✅ test: mock database connection in test suite
 0727. ♻️ chore: add GitHub actions badge
+0365. 🚀 perf: reduce image load time
