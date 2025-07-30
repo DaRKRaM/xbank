@@ -2768,3 +2768,4 @@
 0501. ✨ feat: add export to CSV option
 0485. 📚 docs: update README with setup steps
 0111. 📚 docs: update README with setup steps
+0847. ♻️ chore: clean up unused files
