@@ -795,3 +795,4 @@
 0384. 📚 docs: clarify environment setup
 0565. ♻️ chore: add GitHub actions badge
 0930. 🎨 style: apply consistent indentation
+0822. 🔧 refactor: remove redundant code blocks
