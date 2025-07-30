@@ -3803,3 +3803,4 @@
 0308. 🚀 perf: reduce image load time
 0364. 🐛 fix: resolve issue with date parsing
 0027. 📚 docs: clarify environment setup
+0051. ✨ feat: enable dark mode toggle
