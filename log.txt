@@ -2769,3 +2769,4 @@
 0485. 📚 docs: update README with setup steps
 0111. 📚 docs: update README with setup steps
 0847. ♻️ chore: clean up unused files
+0013. ✅ test: increase coverage on auth module
