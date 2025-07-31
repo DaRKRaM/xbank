@@ -3804,3 +3804,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0027. 📚 docs: clarify environment setup
 0051. ✨ feat: enable dark mode toggle
+0128. ♻️ chore: rename env.example
