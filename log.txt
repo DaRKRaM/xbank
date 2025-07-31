@@ -797,3 +797,4 @@
 0930. 🎨 style: apply consistent indentation
 0822. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
+0984. ♻️ chore: clean up unused files
