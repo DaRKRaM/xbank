@@ -2773,3 +2773,4 @@
 0184. 📚 docs: improve code comments in utils
 0178. ✨ feat: support email verification
 0450. 🐛 fix: fix broken CSS in mobile view
+0584. 🚀 perf: lazy-load components
