@@ -801,3 +801,4 @@
 0055. 📚 docs: update README with setup steps
 0481. ✅ test: add unit test for quiz service
 0391. 🐛 fix: fix null pointer exception on login
+0270. ♻️ chore: rename env.example
