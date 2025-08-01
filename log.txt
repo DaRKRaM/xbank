@@ -798,3 +798,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
 0984. ♻️ chore: clean up unused files
+0055. 📚 docs: update README with setup steps
