@@ -1783,3 +1783,4 @@
 0915. 🚀 perf: cache repeated calculations
 0310. 🔧 refactor: refactor quiz grading logic
 0859. ✨ feat: create admin dashboard
+0217. 🚀 perf: reduce image load time
