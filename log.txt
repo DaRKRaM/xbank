@@ -1786,3 +1786,4 @@
 0217. 🚀 perf: reduce image load time
 0965. 🎨 style: reformat files with black
 0813. 🔧 refactor: organize models into subfolders
+0507. 🔧 refactor: clean up auth middleware
