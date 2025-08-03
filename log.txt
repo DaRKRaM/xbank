@@ -1784,3 +1784,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0859. ✨ feat: create admin dashboard
 0217. 🚀 perf: reduce image load time
+0965. 🎨 style: reformat files with black
