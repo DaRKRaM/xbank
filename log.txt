@@ -1785,3 +1785,4 @@
 0859. ✨ feat: create admin dashboard
 0217. 🚀 perf: reduce image load time
 0965. 🎨 style: reformat files with black
+0813. 🔧 refactor: organize models into subfolders
