@@ -2782,3 +2782,4 @@
 0354. 📚 docs: add API usage examples
 0312. ✨ feat: add user authentication
 0227. ✅ test: test user registration edge cases
+0646. ✅ test: test user registration edge cases
