@@ -2784,3 +2784,4 @@
 0227. ✅ test: test user registration edge cases
 0646. ✅ test: test user registration edge cases
 0802. 🔧 refactor: remove redundant code blocks
+0947. 📚 docs: write FAQ section
