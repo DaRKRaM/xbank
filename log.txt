@@ -1797,3 +1797,4 @@
 0056. ♻️ chore: rename env.example
 0658. 🎨 style: rename variables for clarity
 0438. ♻️ chore: bump dependencies
+0809. ♻️ chore: rename env.example
