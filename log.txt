@@ -3821,3 +3821,4 @@
 0482. ✨ feat: add export to CSV option
 0903. ✅ test: mock database connection in test suite
 0136. 🚀 perf: lazy-load components
+0035. ✅ test: increase coverage on auth module
