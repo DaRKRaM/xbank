@@ -3819,3 +3819,4 @@
 0914. ✅ test: test user registration edge cases
 0168. ✅ test: add integration test for /submit endpoint
 0482. ✨ feat: add export to CSV option
+0903. ✅ test: mock database connection in test suite
