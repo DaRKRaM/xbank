@@ -2789,3 +2789,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0292. 📚 docs: clarify environment setup
 0463. 🚀 perf: reduce image load time
+0761. ✅ test: add unit test for quiz service
