@@ -3823,3 +3823,4 @@
 0136. 🚀 perf: lazy-load components
 0035. ✅ test: increase coverage on auth module
 0898. 🐛 fix: fix broken CSS in mobile view
+0239. 🎨 style: standardize quote style
