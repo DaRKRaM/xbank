@@ -3822,3 +3822,4 @@
 0903. ✅ test: mock database connection in test suite
 0136. 🚀 perf: lazy-load components
 0035. ✅ test: increase coverage on auth module
+0898. 🐛 fix: fix broken CSS in mobile view
