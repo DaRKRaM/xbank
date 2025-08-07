@@ -2788,3 +2788,4 @@
 0799. ♻️ chore: clean up unused files
 0084. 🐛 fix: handle 500 error in quiz API
 0292. 📚 docs: clarify environment setup
+0463. 🚀 perf: reduce image load time
