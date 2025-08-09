@@ -3830,3 +3830,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0071. 🔧 refactor: refactor quiz grading logic
 1000. ✅ test: increase coverage on auth module
+0525. ✅ test: mock database connection in test suite
