@@ -1804,3 +1804,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0845. 🚀 perf: cache repeated calculations
 0101. 📚 docs: clarify environment setup
+0185. 📚 docs: write FAQ section
