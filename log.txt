@@ -3829,3 +3829,4 @@
 0155. ✨ feat: create admin dashboard
 0721. 🚀 perf: optimize database query for quiz results
 0071. 🔧 refactor: refactor quiz grading logic
+1000. ✅ test: increase coverage on auth module
