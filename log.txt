@@ -1805,3 +1805,4 @@
 0845. 🚀 perf: cache repeated calculations
 0101. 📚 docs: clarify environment setup
 0185. 📚 docs: write FAQ section
+0701. 🔧 refactor: clean up auth middleware
