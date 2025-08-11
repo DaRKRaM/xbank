@@ -3834,3 +3834,4 @@
 0432. 🎨 style: apply consistent indentation
 0219. ✅ test: increase coverage on auth module
 0593. 🐛 fix: correct typo in registration form
+0021. ✨ feat: support email verification
