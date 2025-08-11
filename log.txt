@@ -2800,3 +2800,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0162. ♻️ chore: add GitHub actions badge
 0173. 🚀 perf: cache repeated calculations
+0619. ✨ feat: create admin dashboard
