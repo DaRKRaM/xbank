@@ -2797,3 +2797,4 @@
 0720. ✨ feat: add export to CSV option
 0933. 📚 docs: clarify environment setup
 0796. 🔧 refactor: refactor quiz grading logic
+0590. 🐛 fix: fix null pointer exception on login
