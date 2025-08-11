@@ -821,3 +821,4 @@
 0016. 🎨 style: apply consistent indentation
 0830. 🎨 style: apply consistent indentation
 0989. 📚 docs: write FAQ section
+0747. 🔧 refactor: clean up auth middleware
