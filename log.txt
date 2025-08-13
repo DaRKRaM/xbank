@@ -2808,3 +2808,4 @@
 0384. 📚 docs: clarify environment setup
 0724. ✅ test: mock database connection in test suite
 0368. 🚀 perf: lazy-load components
+0411. ✅ test: add unit test for quiz service
