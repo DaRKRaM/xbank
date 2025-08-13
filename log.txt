@@ -3840,3 +3840,4 @@
 0519. 📚 docs: document token refresh logic
 0118. 🚀 perf: reduce image load time
 0541. 🐛 fix: correct typo in registration form
+0068. 🐛 fix: fix null pointer exception on login
