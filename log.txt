@@ -830,3 +830,4 @@
 0803. ✅ test: mock database connection in test suite
 0007. 🎨 style: rename variables for clarity
 0077. ♻️ chore: rename env.example
+0769. ✨ feat: create admin dashboard
