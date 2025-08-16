@@ -835,3 +835,4 @@
 0654. ✨ feat: create admin dashboard
 0581. ✅ test: add integration test for /submit endpoint
 0304. 🔧 refactor: remove redundant code blocks
+0535. 📚 docs: write FAQ section
