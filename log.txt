@@ -1819,3 +1819,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0969. ✨ feat: create admin dashboard
 0032. 🎨 style: apply consistent indentation
+0378. 🐛 fix: prevent crash on empty input
