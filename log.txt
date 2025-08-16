@@ -837,3 +837,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0535. 📚 docs: write FAQ section
 0667. ✨ feat: add export to CSV option
+0660. 🐛 fix: correct typo in registration form
