@@ -840,3 +840,4 @@
 0660. 🐛 fix: correct typo in registration form
 0950. 🎨 style: reformat files with black
 0415. 🐛 fix: handle 500 error in quiz API
+0144. ✅ test: increase coverage on auth module
