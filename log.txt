@@ -3854,3 +3854,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0776. ✅ test: add integration test for /submit endpoint
 0442. 🎨 style: standardize quote style
+0004. 🚀 perf: optimize database query for quiz results
