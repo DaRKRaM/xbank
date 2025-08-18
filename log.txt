@@ -2819,3 +2819,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0813. 🔧 refactor: organize models into subfolders
 0779. 🔧 refactor: organize models into subfolders
+0338. ♻️ chore: add GitHub actions badge
