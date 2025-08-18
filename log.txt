@@ -2821,3 +2821,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0338. ♻️ chore: add GitHub actions badge
 0105. 🐛 fix: correct typo in registration form
+0692. ✅ test: add integration test for /submit endpoint
