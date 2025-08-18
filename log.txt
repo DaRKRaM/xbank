@@ -842,3 +842,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0144. ✅ test: increase coverage on auth module
 0052. 🎨 style: standardize quote style
+0672. 🐛 fix: fix broken CSS in mobile view
