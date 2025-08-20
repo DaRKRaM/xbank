@@ -1830,3 +1830,4 @@
 0330. ✅ test: test user registration edge cases
 0916. ♻️ chore: bump dependencies
 0012. 🚀 perf: cache repeated calculations
+0066. 🔧 refactor: clean up auth middleware
