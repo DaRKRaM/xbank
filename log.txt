@@ -2830,3 +2830,4 @@
 0612. ✅ test: test user registration edge cases
 0252. 🎨 style: remove trailing whitespace
 0049. 🐛 fix: handle 500 error in quiz API
+0893. 🐛 fix: handle 500 error in quiz API
