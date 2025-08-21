@@ -850,3 +850,4 @@
 0254. 🚀 perf: reduce image load time
 0749. ✨ feat: support email verification
 0604. 📚 docs: add API usage examples
+0997. ✅ test: increase coverage on auth module
