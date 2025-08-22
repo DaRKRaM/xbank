@@ -1834,3 +1834,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0778. 📚 docs: write FAQ section
 0928. 🎨 style: apply consistent indentation
+0740. 🐛 fix: resolve issue with date parsing
