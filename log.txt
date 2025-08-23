@@ -2840,3 +2840,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0072. 🚀 perf: optimize database query for quiz results
 0810. 🔧 refactor: refactor quiz grading logic
+0672. 🐛 fix: fix broken CSS in mobile view
