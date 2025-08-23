@@ -3870,3 +3870,4 @@
 0939. 📚 docs: update README with setup steps
 0653. 🐛 fix: prevent crash on empty input
 0379. ✨ feat: support email verification
+0270. ♻️ chore: rename env.example
