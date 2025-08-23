@@ -3871,3 +3871,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0379. ✨ feat: support email verification
 0270. ♻️ chore: rename env.example
+0454. ♻️ chore: bump dependencies
