@@ -3868,3 +3868,4 @@
 0384. 📚 docs: clarify environment setup
 0245. 🐛 fix: resolve issue with date parsing
 0939. 📚 docs: update README with setup steps
+0653. 🐛 fix: prevent crash on empty input
