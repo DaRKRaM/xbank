@@ -2838,3 +2838,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0745. ✅ test: add unit test for quiz service
 0671. 🐛 fix: fix null pointer exception on login
+0072. 🚀 perf: optimize database query for quiz results
