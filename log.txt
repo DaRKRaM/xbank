@@ -855,3 +855,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0004. 🚀 perf: optimize database query for quiz results
 0653. 🐛 fix: prevent crash on empty input
+0054. ♻️ chore: update .gitignore
