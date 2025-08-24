@@ -2846,3 +2846,4 @@
 0986. 📚 docs: document token refresh logic
 0754. 🐛 fix: handle 500 error in quiz API
 0750. 🎨 style: apply consistent indentation
+0735. ♻️ chore: add GitHub actions badge
