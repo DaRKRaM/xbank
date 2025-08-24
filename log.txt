@@ -1839,3 +1839,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0113. ✨ feat: add user authentication
 0903. ✅ test: mock database connection in test suite
+0005. ✅ test: add unit test for quiz service
