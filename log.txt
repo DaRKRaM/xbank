@@ -3872,3 +3872,4 @@
 0379. ✨ feat: support email verification
 0270. ♻️ chore: rename env.example
 0454. ♻️ chore: bump dependencies
+0894. ✅ test: add integration test for /submit endpoint
