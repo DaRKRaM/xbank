@@ -3876,3 +3876,4 @@
 0281. ✨ feat: support email verification
 0274. 🔧 refactor: refactor quiz grading logic
 0818. 🔧 refactor: remove redundant code blocks
+0248. 🐛 fix: handle 500 error in quiz API
