@@ -2859,3 +2859,4 @@
 0730. ✅ test: test user registration edge cases
 0895. ✨ feat: support email verification
 0535. 📚 docs: write FAQ section
+0081. 🐛 fix: fix null pointer exception on login
