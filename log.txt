@@ -2863,3 +2863,4 @@
 0462. ♻️ chore: update .gitignore
 0444. ✅ test: add unit test for quiz service
 0228. 🔧 refactor: remove redundant code blocks
+0639. 🐛 fix: correct typo in registration form
