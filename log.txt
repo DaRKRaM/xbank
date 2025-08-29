@@ -1864,3 +1864,4 @@
 0756. ✨ feat: support email verification
 0950. 🎨 style: reformat files with black
 0862. ♻️ chore: bump dependencies
+0674. 🔧 refactor: split large controller into smaller functions
