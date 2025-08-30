@@ -2865,3 +2865,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0639. 🐛 fix: correct typo in registration form
 0846. ✨ feat: implement quiz timer feature
+0360. ✨ feat: add export to CSV option
