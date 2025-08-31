@@ -1869,3 +1869,4 @@
 0242. ♻️ chore: clean up unused files
 0954. 🚀 perf: cache repeated calculations
 0114. ♻️ chore: update .gitignore
+0307. ✨ feat: support email verification
