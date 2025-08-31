@@ -871,3 +871,4 @@
 0797. 📚 docs: add API usage examples
 0887. 📚 docs: add API usage examples
 0871. ✅ test: add integration test for /submit endpoint
+0121. ✨ feat: support email verification
