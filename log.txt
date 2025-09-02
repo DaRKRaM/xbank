@@ -877,3 +877,4 @@
 0640. ♻️ chore: bump dependencies
 0826. 📚 docs: clarify environment setup
 0656. 🎨 style: apply consistent indentation
+0599. ✅ test: test user registration edge cases
