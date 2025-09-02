@@ -3889,3 +3889,4 @@
 0291. 📚 docs: write FAQ section
 0250. 📚 docs: update README with setup steps
 0708. ✅ test: add integration test for /submit endpoint
+0628. ♻️ chore: add GitHub actions badge
