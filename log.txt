@@ -881,3 +881,4 @@
 0432. 🎨 style: apply consistent indentation
 0379. ✨ feat: support email verification
 0040. 🔧 refactor: clean up auth middleware
+0226. 🚀 perf: lazy-load components
