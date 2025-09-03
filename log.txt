@@ -882,3 +882,4 @@
 0379. ✨ feat: support email verification
 0040. 🔧 refactor: clean up auth middleware
 0226. 🚀 perf: lazy-load components
+0373. 📚 docs: document token refresh logic
