@@ -3896,3 +3896,4 @@
 0166. 🚀 perf: cache repeated calculations
 0148. 🔧 refactor: organize models into subfolders
 0911. ✅ test: increase coverage on auth module
+0471. ✨ feat: support email verification
