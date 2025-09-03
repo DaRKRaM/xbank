@@ -2873,3 +2873,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0679. ♻️ chore: bump dependencies
 0478. 🐛 fix: resolve issue with date parsing
+0514. 🐛 fix: fix broken CSS in mobile view
