@@ -3899,3 +3899,4 @@
 0471. ✨ feat: support email verification
 0647. 🐛 fix: prevent crash on empty input
 0516. ✅ test: add unit test for quiz service
+0080. ✨ feat: support email verification
