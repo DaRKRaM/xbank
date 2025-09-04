@@ -3900,3 +3900,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0516. ✅ test: add unit test for quiz service
 0080. ✨ feat: support email verification
+0854. ♻️ chore: rename env.example
