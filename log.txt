@@ -2881,3 +2881,4 @@
 0167. 🚀 perf: reduce image load time
 0628. ♻️ chore: add GitHub actions badge
 0348. ✅ test: test user registration edge cases
+0670. ✨ feat: add export to CSV option
