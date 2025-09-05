@@ -2880,3 +2880,4 @@
 0239. 🎨 style: standardize quote style
 0167. 🚀 perf: reduce image load time
 0628. ♻️ chore: add GitHub actions badge
+0348. ✅ test: test user registration edge cases
