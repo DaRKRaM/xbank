@@ -3905,3 +3905,4 @@
 0803. ✅ test: mock database connection in test suite
 0814. 🔧 refactor: remove redundant code blocks
 0462. ♻️ chore: update .gitignore
+0133. 🐛 fix: fix null pointer exception on login
