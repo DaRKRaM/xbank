@@ -3911,3 +3911,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0414. 🔧 refactor: remove redundant code blocks
 0988. 🐛 fix: fix broken CSS in mobile view
+0217. 🚀 perf: reduce image load time
