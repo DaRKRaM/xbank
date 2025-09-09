@@ -2890,3 +2890,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0569. 📚 docs: document token refresh logic
 0923. ✨ feat: support email verification
+0080. ✨ feat: support email verification
