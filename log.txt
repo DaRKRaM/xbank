@@ -1894,3 +1894,4 @@
 0908. ♻️ chore: bump dependencies
 0372. ✨ feat: add user authentication
 0692. ✅ test: add integration test for /submit endpoint
+0088. 📚 docs: add API usage examples
