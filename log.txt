@@ -893,3 +893,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0171. 🐛 fix: fix broken CSS in mobile view
 0014. 🔧 refactor: remove redundant code blocks
+0967. ♻️ chore: add GitHub actions badge
