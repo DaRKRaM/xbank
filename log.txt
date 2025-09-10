@@ -895,3 +895,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0967. ♻️ chore: add GitHub actions badge
 0846. ✨ feat: implement quiz timer feature
+0677. 📚 docs: add API usage examples
