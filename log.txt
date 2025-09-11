@@ -3918,3 +3918,4 @@
 0604. 📚 docs: add API usage examples
 0891. ✨ feat: create admin dashboard
 0321. 🔧 refactor: organize models into subfolders
+0024. 📚 docs: write FAQ section
