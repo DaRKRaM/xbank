@@ -2894,3 +2894,4 @@
 0142. ✨ feat: implement quiz timer feature
 0052. 🎨 style: standardize quote style
 0298. ♻️ chore: update .gitignore
+0496. ✅ test: add integration test for /submit endpoint
