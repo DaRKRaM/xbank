@@ -902,3 +902,4 @@
 0189. 📚 docs: clarify environment setup
 0305. ✨ feat: enable dark mode toggle
 0608. 🔧 refactor: remove redundant code blocks
+0207. 🐛 fix: prevent crash on empty input
