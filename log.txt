@@ -2898,3 +2898,4 @@
 0042. 📚 docs: document token refresh logic
 0199. ✨ feat: create admin dashboard
 0783. 🐛 fix: handle 500 error in quiz API
+0430. 🐛 fix: fix null pointer exception on login
