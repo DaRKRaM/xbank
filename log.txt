@@ -906,3 +906,4 @@
 0483. 📚 docs: update README with setup steps
 0112. ✨ feat: enable dark mode toggle
 0773. 📚 docs: document token refresh logic
+0312. ✨ feat: add user authentication
