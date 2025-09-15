@@ -1907,3 +1907,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0163. ✨ feat: implement quiz timer feature
 0854. ♻️ chore: rename env.example
+0419. 🎨 style: remove trailing whitespace
