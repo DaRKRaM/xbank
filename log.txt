@@ -1909,3 +1909,4 @@
 0854. ♻️ chore: rename env.example
 0419. 🎨 style: remove trailing whitespace
 0433. 🐛 fix: prevent crash on empty input
+0079. 🐛 fix: correct typo in registration form
