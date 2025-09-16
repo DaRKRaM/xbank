@@ -2910,3 +2910,4 @@
 0536. ✨ feat: add user authentication
 0596. ♻️ chore: update .gitignore
 0440. 📚 docs: update README with setup steps
+0056. ♻️ chore: rename env.example
