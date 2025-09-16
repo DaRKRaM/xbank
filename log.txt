@@ -2909,3 +2909,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0536. ✨ feat: add user authentication
 0596. ♻️ chore: update .gitignore
+0440. 📚 docs: update README with setup steps
