@@ -1919,3 +1919,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0226. 🚀 perf: lazy-load components
 0174. 📚 docs: clarify environment setup
+0780. 📚 docs: add API usage examples
