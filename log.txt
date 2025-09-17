@@ -2911,3 +2911,4 @@
 0596. ♻️ chore: update .gitignore
 0440. 📚 docs: update README with setup steps
 0056. ♻️ chore: rename env.example
+0222. 🐛 fix: handle 500 error in quiz API
