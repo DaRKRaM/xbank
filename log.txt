@@ -1923,3 +1923,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0936. 🔧 refactor: organize models into subfolders
 0353. ♻️ chore: rename env.example
+0003. ✅ test: increase coverage on auth module
