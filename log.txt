@@ -3940,3 +3940,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0601. ✨ feat: implement quiz timer feature
 0335. ♻️ chore: update .gitignore
+0205. 📚 docs: update README with setup steps
