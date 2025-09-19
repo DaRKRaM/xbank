@@ -2918,3 +2918,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0265. 🎨 style: reformat files with black
 0573. ✅ test: add integration test for /submit endpoint
+1000. ✅ test: increase coverage on auth module
