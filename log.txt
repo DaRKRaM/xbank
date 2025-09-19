@@ -3942,3 +3942,4 @@
 0335. ♻️ chore: update .gitignore
 0205. 📚 docs: update README with setup steps
 0766. 🎨 style: reformat files with black
+0770. ♻️ chore: rename env.example
