@@ -1925,3 +1925,4 @@
 0353. ♻️ chore: rename env.example
 0003. ✅ test: increase coverage on auth module
 0400. 🐛 fix: fix null pointer exception on login
+0932. ✅ test: add integration test for /submit endpoint
