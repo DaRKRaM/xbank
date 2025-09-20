@@ -3944,3 +3944,4 @@
 0766. 🎨 style: reformat files with black
 0770. ♻️ chore: rename env.example
 0188. 🎨 style: apply consistent indentation
+0481. ✅ test: add unit test for quiz service
