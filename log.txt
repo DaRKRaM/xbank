@@ -2920,3 +2920,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 1000. ✅ test: increase coverage on auth module
 0661. ✅ test: add integration test for /submit endpoint
+0403. ✅ test: mock database connection in test suite
