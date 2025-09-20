@@ -3943,3 +3943,4 @@
 0205. 📚 docs: update README with setup steps
 0766. 🎨 style: reformat files with black
 0770. ♻️ chore: rename env.example
+0188. 🎨 style: apply consistent indentation
