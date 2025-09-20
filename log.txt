@@ -2919,3 +2919,4 @@
 0265. 🎨 style: reformat files with black
 0573. ✅ test: add integration test for /submit endpoint
 1000. ✅ test: increase coverage on auth module
+0661. ✅ test: add integration test for /submit endpoint
