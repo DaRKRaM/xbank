@@ -183,3 +183,4 @@
 0712. 🎨 style: apply consistent indentation
 0483. 📚 docs: update README with setup steps
 0258. 🐛 fix: prevent crash on empty input
+0395. 📚 docs: write FAQ section
