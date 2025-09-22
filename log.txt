@@ -2922,3 +2922,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0403. ✅ test: mock database connection in test suite
 0377. ✨ feat: add user authentication
+0795. 📚 docs: update README with setup steps
