@@ -929,3 +929,4 @@
 0106. 🎨 style: reformat files with black
 0837. 🚀 perf: cache repeated calculations
 0958. 🐛 fix: prevent crash on empty input
+0798. 🚀 perf: reduce image load time
