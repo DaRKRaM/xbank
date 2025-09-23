@@ -184,3 +184,4 @@
 0483. 📚 docs: update README with setup steps
 0258. 🐛 fix: prevent crash on empty input
 0395. 📚 docs: write FAQ section
+0521. 🎨 style: standardize quote style
