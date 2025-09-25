@@ -1937,3 +1937,4 @@
 0361. ✨ feat: support email verification
 0850. ♻️ chore: rename env.example
 0224. 🐛 fix: fix broken CSS in mobile view
+0675. 🔧 refactor: organize models into subfolders
