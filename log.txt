@@ -2936,3 +2936,4 @@
 0001. 🚀 perf: cache repeated calculations
 0756. ✨ feat: support email verification
 0491. 🚀 perf: lazy-load components
+0051. ✨ feat: enable dark mode toggle
