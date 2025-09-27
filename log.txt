@@ -1940,3 +1940,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0145. 📚 docs: improve code comments in utils
 0422. 🔧 refactor: organize models into subfolders
+0786. ✨ feat: enable dark mode toggle
