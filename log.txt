@@ -937,3 +937,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0994. 🚀 perf: reduce image load time
 0453. 🎨 style: standardize quote style
+0323. 📚 docs: clarify environment setup
