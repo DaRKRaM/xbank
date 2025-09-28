@@ -1944,3 +1944,4 @@
 0027. 📚 docs: clarify environment setup
 0209. ✨ feat: implement quiz timer feature
 0985. 📚 docs: document token refresh logic
+0603. 🐛 fix: fix broken CSS in mobile view
