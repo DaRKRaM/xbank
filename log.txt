@@ -1948,3 +1948,4 @@
 0547. 📚 docs: write FAQ section
 0991. ♻️ chore: clean up unused files
 0998. 🐛 fix: fix null pointer exception on login
+0979. 🎨 style: standardize quote style
