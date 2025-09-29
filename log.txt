@@ -2944,3 +2944,4 @@
 0526. ✨ feat: add user authentication
 0894. ✅ test: add integration test for /submit endpoint
 0006. 🐛 fix: prevent crash on empty input
+0086. 🐛 fix: correct typo in registration form
