@@ -185,3 +185,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0395. 📚 docs: write FAQ section
 0521. 🎨 style: standardize quote style
+0723. 🔧 refactor: remove redundant code blocks
