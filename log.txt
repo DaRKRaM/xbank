@@ -939,3 +939,4 @@
 0453. 🎨 style: standardize quote style
 0323. 📚 docs: clarify environment setup
 0184. 📚 docs: improve code comments in utils
+0097. 🐛 fix: handle 500 error in quiz API
