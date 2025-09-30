@@ -944,3 +944,4 @@
 0440. 📚 docs: update README with setup steps
 0540. ♻️ chore: add GitHub actions badge
 0283. ♻️ chore: add GitHub actions badge
+0205. 📚 docs: update README with setup steps
