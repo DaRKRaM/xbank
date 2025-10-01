@@ -2947,3 +2947,4 @@
 0086. 🐛 fix: correct typo in registration form
 0314. ✨ feat: implement quiz timer feature
 0328. 🐛 fix: resolve issue with date parsing
+0653. 🐛 fix: prevent crash on empty input
