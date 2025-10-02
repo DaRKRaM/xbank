@@ -2954,3 +2954,4 @@
 0617. ✨ feat: support email verification
 0057. 🚀 perf: optimize database query for quiz results
 0996. ✅ test: test user registration edge cases
+0582. ✨ feat: add export to CSV option
