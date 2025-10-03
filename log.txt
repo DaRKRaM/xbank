@@ -1959,3 +1959,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0011. ✅ test: add unit test for quiz service
 0286. ✅ test: mock database connection in test suite
+0466. 🚀 perf: optimize database query for quiz results
