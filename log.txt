@@ -2959,3 +2959,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0035. ✅ test: increase coverage on auth module
 0993. ✨ feat: implement quiz timer feature
+0998. 🐛 fix: fix null pointer exception on login
