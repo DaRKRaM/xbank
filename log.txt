@@ -962,3 +962,4 @@
 0622. 🎨 style: apply consistent indentation
 0420. 🚀 perf: reduce image load time
 0338. ♻️ chore: add GitHub actions badge
+0734. ✨ feat: add export to CSV option
