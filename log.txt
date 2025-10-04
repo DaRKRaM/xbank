@@ -3985,3 +3985,4 @@
 0189. 📚 docs: clarify environment setup
 0310. 🔧 refactor: refactor quiz grading logic
 0353. ♻️ chore: rename env.example
+0672. 🐛 fix: fix broken CSS in mobile view
