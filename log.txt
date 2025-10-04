@@ -1963,3 +1963,4 @@
 0431. 🎨 style: reformat files with black
 0220. 🐛 fix: fix null pointer exception on login
 0501. ✨ feat: add export to CSV option
+0165. 🎨 style: remove trailing whitespace
