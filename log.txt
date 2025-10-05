@@ -1966,3 +1966,4 @@
 0165. 🎨 style: remove trailing whitespace
 0656. 🎨 style: apply consistent indentation
 0408. ♻️ chore: add GitHub actions badge
+0918. ✨ feat: enable dark mode toggle
