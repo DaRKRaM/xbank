@@ -966,3 +966,4 @@
 0431. 🎨 style: reformat files with black
 0979. 🎨 style: standardize quote style
 0500. ✅ test: add integration test for /submit endpoint
+0057. 🚀 perf: optimize database query for quiz results
