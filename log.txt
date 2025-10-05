@@ -1967,3 +1967,4 @@
 0656. 🎨 style: apply consistent indentation
 0408. ♻️ chore: add GitHub actions badge
 0918. ✨ feat: enable dark mode toggle
+0373. 📚 docs: document token refresh logic
