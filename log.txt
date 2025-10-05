@@ -965,3 +965,4 @@
 0734. ✨ feat: add export to CSV option
 0431. 🎨 style: reformat files with black
 0979. 🎨 style: standardize quote style
+0500. ✅ test: add integration test for /submit endpoint
