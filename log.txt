@@ -1969,3 +1969,4 @@
 0918. ✨ feat: enable dark mode toggle
 0373. 📚 docs: document token refresh logic
 0818. 🔧 refactor: remove redundant code blocks
+0736. 🐛 fix: fix null pointer exception on login
