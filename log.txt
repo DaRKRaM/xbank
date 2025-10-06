@@ -2961,3 +2961,4 @@
 0993. ✨ feat: implement quiz timer feature
 0998. 🐛 fix: fix null pointer exception on login
 0153. ♻️ chore: rename env.example
+0339. 📚 docs: update README with setup steps
