@@ -187,3 +187,4 @@
 0521. 🎨 style: standardize quote style
 0723. 🔧 refactor: remove redundant code blocks
 0260. ✨ feat: create admin dashboard
+0320. 📚 docs: update README with setup steps
