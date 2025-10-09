@@ -2965,3 +2965,4 @@
 0059. ♻️ chore: bump dependencies
 0078. ♻️ chore: update .gitignore
 0124. 🎨 style: reformat files with black
+0561. 📚 docs: write FAQ section
