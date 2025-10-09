@@ -2967,3 +2967,4 @@
 0124. 🎨 style: reformat files with black
 0561. 📚 docs: write FAQ section
 0025. 🚀 perf: optimize database query for quiz results
+0109. 🚀 perf: lazy-load components
