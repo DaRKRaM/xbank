@@ -3996,3 +3996,4 @@
 0667. ✨ feat: add export to CSV option
 0603. 🐛 fix: fix broken CSS in mobile view
 0039. ✅ test: add integration test for /submit endpoint
+0777. 📚 docs: document token refresh logic
