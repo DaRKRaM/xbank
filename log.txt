@@ -1979,3 +1979,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0490. ✨ feat: create admin dashboard
 0413. ✅ test: add integration test for /submit endpoint
+0405. ✅ test: mock database connection in test suite
