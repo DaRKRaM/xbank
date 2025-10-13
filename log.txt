@@ -987,3 +987,4 @@
 0152. ✨ feat: add user authentication
 0702. ✨ feat: add user authentication
 0891. ✨ feat: create admin dashboard
+0676. 🐛 fix: prevent crash on empty input
