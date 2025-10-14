@@ -1982,3 +1982,4 @@
 0405. ✅ test: mock database connection in test suite
 0495. 🔧 refactor: remove redundant code blocks
 0706. ✨ feat: support email verification
+0751. 🐛 fix: handle 500 error in quiz API
