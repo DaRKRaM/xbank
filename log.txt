@@ -2985,3 +2985,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0702. ✨ feat: add user authentication
 0822. 🔧 refactor: remove redundant code blocks
+0647. 🐛 fix: prevent crash on empty input
