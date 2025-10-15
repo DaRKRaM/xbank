@@ -994,3 +994,4 @@
 0234. ♻️ chore: rename env.example
 0670. ✨ feat: add export to CSV option
 0828. ♻️ chore: add GitHub actions badge
+0663. 🚀 perf: reduce image load time
