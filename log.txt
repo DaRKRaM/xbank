@@ -993,3 +993,4 @@
 0215. 🎨 style: reformat files with black
 0234. ♻️ chore: rename env.example
 0670. ✨ feat: add export to CSV option
+0828. ♻️ chore: add GitHub actions badge
