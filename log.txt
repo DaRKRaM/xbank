@@ -995,3 +995,4 @@
 0670. ✨ feat: add export to CSV option
 0828. ♻️ chore: add GitHub actions badge
 0663. 🚀 perf: reduce image load time
+0263. 📚 docs: add API usage examples
