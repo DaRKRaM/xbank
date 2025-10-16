@@ -1986,3 +1986,4 @@
 0491. 🚀 perf: lazy-load components
 0155. ✨ feat: create admin dashboard
 0934. ✨ feat: support email verification
+0668. 🚀 perf: optimize database query for quiz results
