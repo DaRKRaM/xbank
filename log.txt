@@ -2993,3 +2993,4 @@
 0575. ✅ test: add unit test for quiz service
 0110. 🐛 fix: prevent crash on empty input
 0383. 🐛 fix: fix broken CSS in mobile view
+0441. 📚 docs: add API usage examples
