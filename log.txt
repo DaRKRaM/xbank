@@ -1001,3 +1001,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0277. 🎨 style: standardize quote style
 0219. ✅ test: increase coverage on auth module
+0239. 🎨 style: standardize quote style
