@@ -1990,3 +1990,4 @@
 0956. 📚 docs: clarify environment setup
 0640. ♻️ chore: bump dependencies
 0486. ✨ feat: add export to CSV option
+0206. 🐛 fix: handle 500 error in quiz API
