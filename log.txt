@@ -2997,3 +2997,4 @@
 0461. ✨ feat: add user authentication
 0698. 🐛 fix: handle 500 error in quiz API
 0421. 🔧 refactor: split large controller into smaller functions
+0967. ♻️ chore: add GitHub actions badge
