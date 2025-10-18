@@ -4021,3 +4021,4 @@
 0876. ♻️ chore: rename env.example
 0235. 🐛 fix: fix null pointer exception on login
 0656. 🎨 style: apply consistent indentation
+0836. 🚀 perf: optimize database query for quiz results
