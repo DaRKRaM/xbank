@@ -1993,3 +1993,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0931. 🚀 perf: reduce image load time
 0295. 🎨 style: remove trailing whitespace
+0265. 🎨 style: reformat files with black
