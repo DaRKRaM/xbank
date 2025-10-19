@@ -1003,3 +1003,4 @@
 0219. ✅ test: increase coverage on auth module
 0239. 🎨 style: standardize quote style
 0352. ✨ feat: add export to CSV option
+0423. ✅ test: mock database connection in test suite
