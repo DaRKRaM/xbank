@@ -2000,3 +2000,4 @@
 0075. ✅ test: mock database connection in test suite
 0566. 📚 docs: write FAQ section
 0045. 🎨 style: apply consistent indentation
+0489. 🔧 refactor: organize models into subfolders
