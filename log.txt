@@ -4025,3 +4025,4 @@
 0350. 🚀 perf: cache repeated calculations
 0937. 🐛 fix: handle 500 error in quiz API
 0925. ✨ feat: add export to CSV option
+0430. 🐛 fix: fix null pointer exception on login
