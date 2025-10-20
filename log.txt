@@ -2004,3 +2004,4 @@
 0574. ✨ feat: enable dark mode toggle
 0316. 🐛 fix: fix broken CSS in mobile view
 0487. 🎨 style: reformat files with black
+0770. ♻️ chore: rename env.example
