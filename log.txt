@@ -3005,3 +3005,4 @@
 0276. ✅ test: add integration test for /submit endpoint
 0819. 🚀 perf: reduce image load time
 0041. 🐛 fix: fix broken CSS in mobile view
+0693. 📚 docs: add API usage examples
