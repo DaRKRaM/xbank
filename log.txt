@@ -4027,3 +4027,4 @@
 0925. ✨ feat: add export to CSV option
 0430. 🐛 fix: fix null pointer exception on login
 0598. 🔧 refactor: remove redundant code blocks
+0956. 📚 docs: clarify environment setup
