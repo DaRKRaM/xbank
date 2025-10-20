@@ -3008,3 +3008,4 @@
 0693. 📚 docs: add API usage examples
 0097. 🐛 fix: handle 500 error in quiz API
 0200. 🐛 fix: handle 500 error in quiz API
+0484. 🐛 fix: handle 500 error in quiz API
