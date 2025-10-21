@@ -190,3 +190,4 @@
 0320. 📚 docs: update README with setup steps
 0615. 🐛 fix: correct typo in registration form
 0833. ✨ feat: add user authentication
+0162. ♻️ chore: add GitHub actions badge
