@@ -2008,3 +2008,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0386. 🚀 perf: optimize database query for quiz results
 0724. ✅ test: mock database connection in test suite
+0270. ♻️ chore: rename env.example
