@@ -4030,3 +4030,4 @@
 0956. 📚 docs: clarify environment setup
 0715. ✨ feat: create admin dashboard
 0989. 📚 docs: write FAQ section
+0585. 🚀 perf: lazy-load components
