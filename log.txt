@@ -4031,3 +4031,4 @@
 0715. ✨ feat: create admin dashboard
 0989. 📚 docs: write FAQ section
 0585. 🚀 perf: lazy-load components
+0006. 🐛 fix: prevent crash on empty input
