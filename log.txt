@@ -2012,3 +2012,4 @@
 0761. ✅ test: add unit test for quiz service
 0447. ♻️ chore: bump dependencies
 0410. 🎨 style: reformat files with black
+0521. 🎨 style: standardize quote style
