@@ -4034,3 +4034,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0557. 🔧 refactor: clean up auth middleware
 0185. 📚 docs: write FAQ section
+0023. 📚 docs: clarify environment setup
