@@ -4036,3 +4036,4 @@
 0185. 📚 docs: write FAQ section
 0023. 📚 docs: clarify environment setup
 0044. ✅ test: add unit test for quiz service
+0305. ✨ feat: enable dark mode toggle
