@@ -2014,3 +2014,4 @@
 0410. 🎨 style: reformat files with black
 0521. 🎨 style: standardize quote style
 0725. 🚀 perf: lazy-load components
+0277. 🎨 style: standardize quote style
