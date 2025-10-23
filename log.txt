@@ -2013,3 +2013,4 @@
 0447. ♻️ chore: bump dependencies
 0410. 🎨 style: reformat files with black
 0521. 🎨 style: standardize quote style
+0725. 🚀 perf: lazy-load components
