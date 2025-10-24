@@ -2015,3 +2015,4 @@
 0521. 🎨 style: standardize quote style
 0725. 🚀 perf: lazy-load components
 0277. 🎨 style: standardize quote style
+0548. 📚 docs: write FAQ section
