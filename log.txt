@@ -4040,3 +4040,4 @@
 0904. ✨ feat: implement quiz timer feature
 0333. 🚀 perf: cache repeated calculations
 0592. 📚 docs: add API usage examples
+0337. 📚 docs: document token refresh logic
