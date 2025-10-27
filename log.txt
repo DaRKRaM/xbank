@@ -2018,3 +2018,4 @@
 0548. 📚 docs: write FAQ section
 0822. 🔧 refactor: remove redundant code blocks
 0580. ♻️ chore: bump dependencies
+0427. ✅ test: mock database connection in test suite
