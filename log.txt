@@ -3022,3 +3022,4 @@
 0543. ✨ feat: support email verification
 0832. 🔧 refactor: remove redundant code blocks
 0487. 🎨 style: reformat files with black
+0208. 🔧 refactor: clean up auth middleware
