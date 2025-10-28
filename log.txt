@@ -1034,3 +1034,4 @@
 0635. 🎨 style: apply consistent indentation
 0374. 🎨 style: standardize quote style
 0390. 🎨 style: standardize quote style
+0020. ✅ test: add integration test for /submit endpoint
