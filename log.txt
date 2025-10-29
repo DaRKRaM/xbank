@@ -3025,3 +3025,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0370. 🚀 perf: reduce image load time
 0527. 🎨 style: remove trailing whitespace
+0776. ✅ test: add integration test for /submit endpoint
