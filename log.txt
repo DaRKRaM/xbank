@@ -191,3 +191,4 @@
 0615. 🐛 fix: correct typo in registration form
 0833. ✨ feat: add user authentication
 0162. ♻️ chore: add GitHub actions badge
+0338. ♻️ chore: add GitHub actions badge
