@@ -1038,3 +1038,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0799. ♻️ chore: clean up unused files
 0662. ♻️ chore: clean up unused files
+0298. ♻️ chore: update .gitignore
