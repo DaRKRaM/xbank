@@ -4049,3 +4049,4 @@
 0352. ✨ feat: add export to CSV option
 0182. 🔧 refactor: remove redundant code blocks
 0214. 📚 docs: improve code comments in utils
+0391. 🐛 fix: fix null pointer exception on login
