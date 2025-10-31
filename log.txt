@@ -3033,3 +3033,4 @@
 0269. ✅ test: test user registration edge cases
 0905. ♻️ chore: bump dependencies
 0572. ✨ feat: add user authentication
+0595. ✨ feat: enable dark mode toggle
