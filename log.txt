@@ -2032,3 +2032,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0657. 🎨 style: standardize quote style
 0875. ✅ test: increase coverage on auth module
+0840. 🔧 refactor: refactor quiz grading logic
