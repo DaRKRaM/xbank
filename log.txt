@@ -3035,3 +3035,4 @@
 0572. ✨ feat: add user authentication
 0595. ✨ feat: enable dark mode toggle
 0664. ✅ test: add unit test for quiz service
+0017. ✅ test: mock database connection in test suite
