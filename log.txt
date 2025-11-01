@@ -4052,3 +4052,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0361. ✨ feat: support email verification
 0716. ✨ feat: implement quiz timer feature
+0824. 🚀 perf: lazy-load components
