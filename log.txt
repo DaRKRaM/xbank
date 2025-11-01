@@ -2026,3 +2026,4 @@
 0982. 🚀 perf: lazy-load components
 0166. 🚀 perf: cache repeated calculations
 0583. ✅ test: increase coverage on auth module
+0234. ♻️ chore: rename env.example
