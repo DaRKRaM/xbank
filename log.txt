@@ -2033,3 +2033,4 @@
 0657. 🎨 style: standardize quote style
 0875. ✅ test: increase coverage on auth module
 0840. 🔧 refactor: refactor quiz grading logic
+0613. 🐛 fix: prevent crash on empty input
