@@ -2037,3 +2037,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0984. ♻️ chore: clean up unused files
 0881. 🔧 refactor: split large controller into smaller functions
+0798. 🚀 perf: reduce image load time
