@@ -1052,3 +1052,4 @@
 0848. 📚 docs: update README with setup steps
 0644. 🎨 style: apply consistent indentation
 0251. ♻️ chore: update .gitignore
+0434. 📚 docs: document token refresh logic
