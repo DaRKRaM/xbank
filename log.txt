@@ -2044,3 +2044,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0172. 📚 docs: add API usage examples
 0479. 🐛 fix: fix null pointer exception on login
+0031. 📚 docs: document token refresh logic
