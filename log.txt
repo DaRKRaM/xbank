@@ -1060,3 +1060,4 @@
 0109. 🚀 perf: lazy-load components
 0572. ✨ feat: add user authentication
 0718. 🐛 fix: resolve issue with date parsing
+0786. ✨ feat: enable dark mode toggle
