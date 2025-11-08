@@ -2048,3 +2048,4 @@
 0149. ✨ feat: add export to CSV option
 0360. ✨ feat: add export to CSV option
 0654. ✨ feat: create admin dashboard
+0359. 🔧 refactor: clean up auth middleware
