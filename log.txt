@@ -1063,3 +1063,4 @@
 0786. ✨ feat: enable dark mode toggle
 0577. ✨ feat: implement quiz timer feature
 0853. 🔧 refactor: refactor quiz grading logic
+0948. 🐛 fix: fix broken CSS in mobile view
