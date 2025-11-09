@@ -4075,3 +4075,4 @@
 0356. 📚 docs: write FAQ section
 0061. ✨ feat: create admin dashboard
 0963. 🚀 perf: reduce image load time
+0699. 🎨 style: standardize quote style
