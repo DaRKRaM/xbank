@@ -1065,3 +1065,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0948. 🐛 fix: fix broken CSS in mobile view
 0401. 🚀 perf: reduce image load time
+0971. 🎨 style: standardize quote style
