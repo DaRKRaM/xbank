@@ -3057,3 +3057,4 @@
 0716. ✨ feat: implement quiz timer feature
 0556. ✨ feat: support email verification
 0687. 🎨 style: remove trailing whitespace
+0347. ♻️ chore: update .gitignore
