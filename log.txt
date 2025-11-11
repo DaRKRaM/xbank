@@ -1069,3 +1069,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0099. 🚀 perf: reduce image load time
 0313. 🎨 style: apply consistent indentation
+0742. 📚 docs: clarify environment setup
