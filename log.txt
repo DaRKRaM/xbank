@@ -3058,3 +3058,4 @@
 0556. ✨ feat: support email verification
 0687. 🎨 style: remove trailing whitespace
 0347. ♻️ chore: update .gitignore
+0935. 📚 docs: update README with setup steps
