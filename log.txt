@@ -2052,3 +2052,4 @@
 0947. 📚 docs: write FAQ section
 0338. ♻️ chore: add GitHub actions badge
 0801. ✨ feat: enable dark mode toggle
+0406. ✨ feat: add export to CSV option
