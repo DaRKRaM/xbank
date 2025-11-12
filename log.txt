@@ -2056,3 +2056,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0923. ✨ feat: support email verification
 0799. ♻️ chore: clean up unused files
+0746. ♻️ chore: add GitHub actions badge
