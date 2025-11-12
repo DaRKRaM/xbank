@@ -2057,3 +2057,4 @@
 0923. ✨ feat: support email verification
 0799. ♻️ chore: clean up unused files
 0746. ♻️ chore: add GitHub actions badge
+0018. 🔧 refactor: organize models into subfolders
