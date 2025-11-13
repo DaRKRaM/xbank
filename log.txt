@@ -2066,3 +2066,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0275. 🎨 style: standardize quote style
 0131. 📚 docs: write FAQ section
+0296. 🔧 refactor: organize models into subfolders
