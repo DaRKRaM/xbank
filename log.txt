@@ -2064,3 +2064,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0814. 🔧 refactor: remove redundant code blocks
 0289. 🐛 fix: resolve issue with date parsing
+0275. 🎨 style: standardize quote style
