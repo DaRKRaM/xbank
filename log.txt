@@ -3066,3 +3066,4 @@
 0156. 🎨 style: rename variables for clarity
 0103. 🔧 refactor: remove redundant code blocks
 0731. 🎨 style: standardize quote style
+0518. ✨ feat: support email verification
