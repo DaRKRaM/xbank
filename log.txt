@@ -2069,3 +2069,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0838. 🎨 style: standardize quote style
 0749. ✨ feat: support email verification
+0298. ♻️ chore: update .gitignore
