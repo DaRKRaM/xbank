@@ -3068,3 +3068,4 @@
 0731. 🎨 style: standardize quote style
 0518. ✨ feat: support email verification
 0541. 🐛 fix: correct typo in registration form
+0974. ✨ feat: add export to CSV option
