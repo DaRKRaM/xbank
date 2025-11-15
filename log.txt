@@ -4087,3 +4087,4 @@
 0851. ✅ test: mock database connection in test suite
 0611. ✅ test: test user registration edge cases
 0184. 📚 docs: improve code comments in utils
+0087. ✨ feat: add export to CSV option
