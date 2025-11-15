@@ -2070,3 +2070,4 @@
 0838. 🎨 style: standardize quote style
 0749. ✨ feat: support email verification
 0298. ♻️ chore: update .gitignore
+0354. 📚 docs: add API usage examples
