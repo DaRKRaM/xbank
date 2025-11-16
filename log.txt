@@ -3070,3 +3070,4 @@
 0541. 🐛 fix: correct typo in registration form
 0974. ✨ feat: add export to CSV option
 0102. ✨ feat: support email verification
+0039. ✅ test: add integration test for /submit endpoint
