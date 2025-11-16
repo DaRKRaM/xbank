@@ -2072,3 +2072,4 @@
 0298. ♻️ chore: update .gitignore
 0354. 📚 docs: add API usage examples
 0648. ♻️ chore: bump dependencies
+0990. ♻️ chore: rename env.example
