@@ -3074,3 +3074,4 @@
 0777. 📚 docs: document token refresh logic
 0868. ✅ test: add unit test for quiz service
 0852. ✨ feat: enable dark mode toggle
+0744. 🔧 refactor: remove redundant code blocks
