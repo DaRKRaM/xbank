@@ -2079,3 +2079,4 @@
 0471. ✨ feat: support email verification
 0904. ✨ feat: implement quiz timer feature
 0595. ✨ feat: enable dark mode toggle
+0784. ♻️ chore: clean up unused files
