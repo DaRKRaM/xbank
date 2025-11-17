@@ -3073,3 +3073,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0777. 📚 docs: document token refresh logic
 0868. ✅ test: add unit test for quiz service
+0852. ✨ feat: enable dark mode toggle
