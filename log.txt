@@ -3078,3 +3078,4 @@
 0385. ♻️ chore: clean up unused files
 0931. 🚀 perf: reduce image load time
 0891. ✨ feat: create admin dashboard
+0605. ✨ feat: support email verification
