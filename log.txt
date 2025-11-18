@@ -2081,3 +2081,4 @@
 0595. ✨ feat: enable dark mode toggle
 0784. ♻️ chore: clean up unused files
 0401. 🚀 perf: reduce image load time
+0199. ✨ feat: create admin dashboard
