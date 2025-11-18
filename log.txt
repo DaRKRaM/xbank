@@ -3076,3 +3076,4 @@
 0852. ✨ feat: enable dark mode toggle
 0744. 🔧 refactor: remove redundant code blocks
 0385. ♻️ chore: clean up unused files
+0931. 🚀 perf: reduce image load time
