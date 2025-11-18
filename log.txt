@@ -2082,3 +2082,4 @@
 0784. ♻️ chore: clean up unused files
 0401. 🚀 perf: reduce image load time
 0199. ✨ feat: create admin dashboard
+0375. 🐛 fix: handle 500 error in quiz API
