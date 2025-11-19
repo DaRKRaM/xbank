@@ -4101,3 +4101,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0306. 🎨 style: apply consistent indentation
 0839. 🎨 style: apply consistent indentation
+0140. 🐛 fix: handle 500 error in quiz API
