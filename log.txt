@@ -2088,3 +2088,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0099. 🚀 perf: reduce image load time
 0087. ✨ feat: add export to CSV option
+0827. 🚀 perf: optimize database query for quiz results
