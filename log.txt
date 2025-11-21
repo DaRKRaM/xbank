@@ -1089,3 +1089,4 @@
 0493. ✨ feat: add user authentication
 0528. ♻️ chore: clean up unused files
 0221. ✨ feat: add user authentication
+0781. 🚀 perf: reduce image load time
