@@ -1093,3 +1093,4 @@
 0536. ✨ feat: add user authentication
 0614. 🚀 perf: reduce image load time
 0496. ✅ test: add integration test for /submit endpoint
+0993. ✨ feat: implement quiz timer feature
