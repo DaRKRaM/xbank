@@ -1085,3 +1085,4 @@
 0761. ✅ test: add unit test for quiz service
 0907. 🔧 refactor: split large controller into smaller functions
 0795. 📚 docs: update README with setup steps
+0960. ✅ test: increase coverage on auth module
