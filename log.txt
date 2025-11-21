@@ -1087,3 +1087,4 @@
 0795. 📚 docs: update README with setup steps
 0960. ✅ test: increase coverage on auth module
 0493. ✨ feat: add user authentication
+0528. ♻️ chore: clean up unused files
