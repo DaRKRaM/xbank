@@ -2095,3 +2095,4 @@
 0458. ✨ feat: create admin dashboard
 0037. 🐛 fix: correct typo in registration form
 0962. ✨ feat: create admin dashboard
+0732. ♻️ chore: add GitHub actions badge
