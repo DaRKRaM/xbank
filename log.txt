@@ -2091,3 +2091,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0351. ✨ feat: add export to CSV option
 0074. ♻️ chore: add GitHub actions badge
+0326. 🚀 perf: cache repeated calculations
