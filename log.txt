@@ -4112,3 +4112,4 @@
 0108. 🎨 style: remove trailing whitespace
 0947. 📚 docs: write FAQ section
 0785. ✨ feat: enable dark mode toggle
+0984. ♻️ chore: clean up unused files
