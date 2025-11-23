@@ -3086,3 +3086,4 @@
 0122. ✨ feat: support email verification
 0638. 📚 docs: improve code comments in utils
 0688. 🚀 perf: reduce image load time
+0187. ✨ feat: support email verification
