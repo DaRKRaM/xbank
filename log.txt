@@ -4114,3 +4114,4 @@
 0785. ✨ feat: enable dark mode toggle
 0984. ♻️ chore: clean up unused files
 0690. 🚀 perf: lazy-load components
+0997. ✅ test: increase coverage on auth module
