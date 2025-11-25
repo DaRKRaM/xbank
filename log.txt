@@ -3089,3 +3089,4 @@
 0187. ✨ feat: support email verification
 0068. 🐛 fix: fix null pointer exception on login
 0771. 🚀 perf: cache repeated calculations
+0321. 🔧 refactor: organize models into subfolders
