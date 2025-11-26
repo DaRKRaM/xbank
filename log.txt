@@ -3094,3 +3094,4 @@
 0770. ♻️ chore: rename env.example
 0792. 🎨 style: standardize quote style
 0435. ✅ test: add unit test for quiz service
+0549. ✨ feat: enable dark mode toggle
