@@ -2103,3 +2103,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0880. 🐛 fix: fix broken CSS in mobile view
 0803. ✅ test: mock database connection in test suite
+0981. 🚀 perf: lazy-load components
