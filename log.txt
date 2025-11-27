@@ -3105,3 +3105,4 @@
 0483. 📚 docs: update README with setup steps
 0465. 🎨 style: rename variables for clarity
 0168. ✅ test: add integration test for /submit endpoint
+0405. ✅ test: mock database connection in test suite
