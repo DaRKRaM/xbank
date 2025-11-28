@@ -2108,3 +2108,4 @@
 0358. 🚀 perf: reduce image load time
 0024. 📚 docs: write FAQ section
 0868. ✅ test: add unit test for quiz service
+0192. ✨ feat: enable dark mode toggle
