@@ -2111,3 +2111,4 @@
 0192. ✨ feat: enable dark mode toggle
 0462. ♻️ chore: update .gitignore
 0518. ✨ feat: support email verification
+0476. 🚀 perf: reduce image load time
