@@ -2110,3 +2110,4 @@
 0868. ✅ test: add unit test for quiz service
 0192. ✨ feat: enable dark mode toggle
 0462. ♻️ chore: update .gitignore
+0518. ✨ feat: support email verification
