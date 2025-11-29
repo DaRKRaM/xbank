@@ -1118,3 +1118,4 @@
 0149. ✨ feat: add export to CSV option
 0502. 📚 docs: update README with setup steps
 0252. 🎨 style: remove trailing whitespace
+0110. 🐛 fix: prevent crash on empty input
