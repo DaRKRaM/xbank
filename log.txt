@@ -1121,3 +1121,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0385. ♻️ chore: clean up unused files
 0819. 🚀 perf: reduce image load time
+0335. ♻️ chore: update .gitignore
