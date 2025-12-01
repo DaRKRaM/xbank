@@ -3112,3 +3112,4 @@
 0604. 📚 docs: add API usage examples
 0859. ✨ feat: create admin dashboard
 0291. 📚 docs: write FAQ section
+0204. 🎨 style: standardize quote style
