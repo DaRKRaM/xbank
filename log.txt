@@ -2117,3 +2117,4 @@
 0256. ✅ test: mock database connection in test suite
 0078. ♻️ chore: update .gitignore
 0526. ✨ feat: add user authentication
+0793. 📚 docs: clarify environment setup
