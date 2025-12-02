@@ -2118,3 +2118,4 @@
 0078. ♻️ chore: update .gitignore
 0526. ✨ feat: add user authentication
 0793. 📚 docs: clarify environment setup
+0543. ✨ feat: support email verification
