@@ -1122,3 +1122,4 @@
 0385. ♻️ chore: clean up unused files
 0819. 🚀 perf: reduce image load time
 0335. ♻️ chore: update .gitignore
+0078. ♻️ chore: update .gitignore
