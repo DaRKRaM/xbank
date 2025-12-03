@@ -2120,3 +2120,4 @@
 0793. 📚 docs: clarify environment setup
 0543. ✨ feat: support email verification
 0659. 📚 docs: add API usage examples
+0767. 🔧 refactor: remove redundant code blocks
