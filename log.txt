@@ -2119,3 +2119,4 @@
 0526. ✨ feat: add user authentication
 0793. 📚 docs: clarify environment setup
 0543. ✨ feat: support email verification
+0659. 📚 docs: add API usage examples
