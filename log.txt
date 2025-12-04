@@ -2123,3 +2123,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0151. ✅ test: add unit test for quiz service
 0607. 🐛 fix: prevent crash on empty input
+0900. 🐛 fix: handle 500 error in quiz API
