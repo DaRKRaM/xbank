@@ -4132,3 +4132,4 @@
 0062. ♻️ chore: update .gitignore
 0746. ♻️ chore: add GitHub actions badge
 0311. 🎨 style: apply consistent indentation
+0507. 🔧 refactor: clean up auth middleware
