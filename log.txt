@@ -1133,3 +1133,4 @@
 0079. 🐛 fix: correct typo in registration form
 0266. 🔧 refactor: remove redundant code blocks
 0287. 📚 docs: write FAQ section
+0011. ✅ test: add unit test for quiz service
