@@ -2128,3 +2128,4 @@
 0806. 📚 docs: improve code comments in utils
 0794. ♻️ chore: clean up unused files
 0723. 🔧 refactor: remove redundant code blocks
+0063. 🐛 fix: handle 500 error in quiz API
