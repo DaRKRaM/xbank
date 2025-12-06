@@ -2135,3 +2135,4 @@
 0951. 🎨 style: rename variables for clarity
 0170. ✅ test: increase coverage on auth module
 0844. 📚 docs: update README with setup steps
+0865. ♻️ chore: add GitHub actions badge
