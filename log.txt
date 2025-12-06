@@ -2129,3 +2129,4 @@
 0794. ♻️ chore: clean up unused files
 0723. 🔧 refactor: remove redundant code blocks
 0063. 🐛 fix: handle 500 error in quiz API
+0065. ✅ test: add integration test for /submit endpoint
