@@ -2141,3 +2141,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0482. ✨ feat: add export to CSV option
 0576. ♻️ chore: update .gitignore
+0682. ♻️ chore: rename env.example
