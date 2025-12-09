@@ -2143,3 +2143,4 @@
 0576. ♻️ chore: update .gitignore
 0682. ♻️ chore: rename env.example
 0504. 📚 docs: document token refresh logic
+0208. 🔧 refactor: clean up auth middleware
