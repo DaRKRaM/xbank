@@ -1145,3 +1145,4 @@
 0981. 🚀 perf: lazy-load components
 0866. 📚 docs: add API usage examples
 0176. 🔧 refactor: remove redundant code blocks
+0042. 📚 docs: document token refresh logic
