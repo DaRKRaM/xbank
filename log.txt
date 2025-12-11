@@ -4147,3 +4147,4 @@
 0251. ♻️ chore: update .gitignore
 0047. 🎨 style: rename variables for clarity
 0596. ♻️ chore: update .gitignore
+0503. ♻️ chore: rename env.example
