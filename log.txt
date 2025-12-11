@@ -3138,3 +3138,4 @@
 0883. 📚 docs: improve code comments in utils
 0182. 🔧 refactor: remove redundant code blocks
 0751. 🐛 fix: handle 500 error in quiz API
+0882. 🚀 perf: optimize database query for quiz results
