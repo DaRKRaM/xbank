@@ -2149,3 +2149,4 @@
 0685. ✅ test: test user registration edge cases
 0664. ✅ test: add unit test for quiz service
 0636. ✅ test: increase coverage on auth module
+0789. ✨ feat: create admin dashboard
