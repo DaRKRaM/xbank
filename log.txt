@@ -3141,3 +3141,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0548. 📚 docs: write FAQ section
 0667. ✨ feat: add export to CSV option
+0295. 🎨 style: remove trailing whitespace
