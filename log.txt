@@ -1161,3 +1161,4 @@
 0105. 🐛 fix: correct typo in registration form
 0551. 📚 docs: write FAQ section
 0645. 🐛 fix: resolve issue with date parsing
+0851. ✅ test: mock database connection in test suite
