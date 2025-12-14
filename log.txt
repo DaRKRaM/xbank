@@ -4157,3 +4157,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0548. 📚 docs: write FAQ section
 0629. 🔧 refactor: organize models into subfolders
+0625. 🐛 fix: handle 500 error in quiz API
