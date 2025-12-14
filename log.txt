@@ -3142,3 +3142,4 @@
 0548. 📚 docs: write FAQ section
 0667. ✨ feat: add export to CSV option
 0295. 🎨 style: remove trailing whitespace
+0791. 🔧 refactor: clean up auth middleware
