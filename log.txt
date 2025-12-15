@@ -3151,3 +3151,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0401. 🚀 perf: reduce image load time
 0522. 🐛 fix: handle 500 error in quiz API
+0990. ♻️ chore: rename env.example
