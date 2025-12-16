@@ -3155,3 +3155,4 @@
 0498. ✅ test: mock database connection in test suite
 0337. 📚 docs: document token refresh logic
 0685. ✅ test: test user registration edge cases
+0263. 📚 docs: add API usage examples
