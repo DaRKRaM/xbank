@@ -1167,3 +1167,4 @@
 0659. 📚 docs: add API usage examples
 0915. 🚀 perf: cache repeated calculations
 0847. ♻️ chore: clean up unused files
+0400. 🐛 fix: fix null pointer exception on login
