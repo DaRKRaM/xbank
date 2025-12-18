@@ -2173,3 +2173,4 @@
 0188. 🎨 style: apply consistent indentation
 0893. 🐛 fix: handle 500 error in quiz API
 0855. 🎨 style: reformat files with black
+0429. ✨ feat: add user authentication
