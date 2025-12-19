@@ -3166,3 +3166,4 @@
 0244. ✨ feat: add export to CSV option
 0649. 📚 docs: update README with setup steps
 0910. 🎨 style: remove trailing whitespace
+0488. ♻️ chore: add GitHub actions badge
