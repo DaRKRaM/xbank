@@ -3170,3 +3170,4 @@
 0357. ✅ test: add unit test for quiz service
 0934. ✨ feat: support email verification
 0313. 🎨 style: apply consistent indentation
+0259. 🚀 perf: lazy-load components
