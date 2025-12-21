@@ -3171,3 +3171,4 @@
 0934. ✨ feat: support email verification
 0313. 🎨 style: apply consistent indentation
 0259. 🚀 perf: lazy-load components
+0058. ♻️ chore: add GitHub actions badge
