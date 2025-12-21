@@ -1181,3 +1181,4 @@
 0952. 🔧 refactor: split large controller into smaller functions
 0609. 🐛 fix: handle 500 error in quiz API
 0495. 🔧 refactor: remove redundant code blocks
+0479. 🐛 fix: fix null pointer exception on login
