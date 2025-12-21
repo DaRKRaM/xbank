@@ -3174,3 +3174,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0443. 🎨 style: standardize quote style
 0003. ✅ test: increase coverage on auth module
+0233. 🚀 perf: lazy-load components
