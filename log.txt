@@ -4178,3 +4178,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0210. 🎨 style: apply consistent indentation
 0121. ✨ feat: support email verification
+0124. 🎨 style: reformat files with black
