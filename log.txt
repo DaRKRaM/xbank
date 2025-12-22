@@ -3180,3 +3180,4 @@
 0902. ✨ feat: enable dark mode toggle
 0359. 🔧 refactor: clean up auth middleware
 0100. ♻️ chore: update .gitignore
+0351. ✨ feat: add export to CSV option
