@@ -2186,3 +2186,4 @@
 0363. 📚 docs: clarify environment setup
 0863. 🐛 fix: correct typo in registration form
 0652. 🔧 refactor: organize models into subfolders
+0966. 📚 docs: improve code comments in utils
