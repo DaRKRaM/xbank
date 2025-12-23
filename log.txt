@@ -4186,3 +4186,4 @@
 0007. 🎨 style: rename variables for clarity
 0728. 🔧 refactor: split large controller into smaller functions
 0768. 🎨 style: remove trailing whitespace
+0409. 🚀 perf: lazy-load components
