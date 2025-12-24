@@ -3184,3 +3184,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0249. ✅ test: increase coverage on auth module
 0306. 🎨 style: apply consistent indentation
+0294. 🐛 fix: prevent crash on empty input
