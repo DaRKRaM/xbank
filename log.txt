@@ -3186,3 +3186,4 @@
 0306. 🎨 style: apply consistent indentation
 0294. 🐛 fix: prevent crash on empty input
 0600. 🐛 fix: prevent crash on empty input
+0380. 🐛 fix: fix null pointer exception on login
