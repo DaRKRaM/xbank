@@ -3190,3 +3190,4 @@
 0134. ✨ feat: implement quiz timer feature
 0787. ♻️ chore: rename env.example
 0473. 📚 docs: write FAQ section
+0630. 🚀 perf: lazy-load components
