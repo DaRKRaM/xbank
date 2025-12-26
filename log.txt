@@ -4194,3 +4194,4 @@
 0545. 🎨 style: standardize quote style
 0508. ✅ test: add unit test for quiz service
 0174. 📚 docs: clarify environment setup
+0181. ♻️ chore: add GitHub actions badge
