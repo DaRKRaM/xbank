@@ -3189,3 +3189,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0134. ✨ feat: implement quiz timer feature
 0787. ♻️ chore: rename env.example
+0473. 📚 docs: write FAQ section
