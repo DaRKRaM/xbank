@@ -1193,3 +1193,4 @@
 0003. ✅ test: increase coverage on auth module
 0900. 🐛 fix: handle 500 error in quiz API
 0995. ✅ test: mock database connection in test suite
+0399. ✅ test: mock database connection in test suite
