@@ -3197,3 +3197,4 @@
 0418. ✅ test: mock database connection in test suite
 0297. 🎨 style: remove trailing whitespace
 0407. 🚀 perf: cache repeated calculations
+0486. ✨ feat: add export to CSV option
