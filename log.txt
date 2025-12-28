@@ -1196,3 +1196,4 @@
 0399. ✅ test: mock database connection in test suite
 0658. 🎨 style: rename variables for clarity
 0703. 🔧 refactor: clean up auth middleware
+0613. 🐛 fix: prevent crash on empty input
