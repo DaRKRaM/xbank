@@ -2197,3 +2197,4 @@
 0712. 🎨 style: apply consistent indentation
 0796. 🔧 refactor: refactor quiz grading logic
 0673. 🐛 fix: correct typo in registration form
+0201. 🔧 refactor: clean up auth middleware
